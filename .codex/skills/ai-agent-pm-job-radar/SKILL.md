@@ -11,10 +11,10 @@ Act as the scraper. Do not rely on a checked-in refresh script. For each refresh
 
 The persistent artifacts are only:
 
-- `*_ai_agent_pm_jobs.csv`
-- `*_ai_agent_pm_jobs.md`
-- `ai_agent_pm_job_change_log.csv`
-- `ai_agent_pm_job_change_log.md`
+- `data/*_ai_agent_pm_jobs.csv`
+- `data/*_ai_agent_pm_jobs.md`
+- `data/ai_agent_pm_job_change_log.csv`
+- `data/ai_agent_pm_job_change_log.md`
 - `ai_agent_pm_jobs.html`
 
 During a routine refresh, update data and the `jobData` JSON payload only. Do not change page styling or layout.
@@ -23,15 +23,15 @@ During a routine refresh, update data and the `jobData` JSON payload only. Do no
 
 1. Work from the repository root containing `ai_agent_pm_jobs.html`.
 2. Read existing CSVs first so each source can fail open after retry.
-3. For every source, fetch live data. If a source fails, retry that source once after a short delay. Only after the retry fails, keep the existing CSV for that source and record the failure.
+3. For every source, fetch live data. If a source fails, retry that source once after a short delay. Only after the retry fails, keep the existing CSV under `data/` for that source and record the failure.
 4. Normalize rows to these logical fields: company/source, title, matched keywords, location, published time, official URL, JD.
    - If the official site does not disclose a publish time, use the first successful crawl time as the row's recorded time.
    - For existing no-publish-time jobs, preserve their previous recorded time on later refreshes; do not overwrite it every run.
 5. Filter to product-manager roles:
    - title must include `产品经理`
    - title or JD must match at least one of: `AI`, `人工智能`, `大模型`, `AIGC`, `Agent`, `agent`, `智能体`
-6. Write company CSV and Markdown outputs.
-7. Rebuild `ai_agent_pm_job_change_log.csv/.md`.
+6. Write company CSV and Markdown outputs under `data/`.
+7. Rebuild `data/ai_agent_pm_job_change_log.csv/.md`.
 8. Replace only `<script id="jobData" type="application/json">...</script>` inside `ai_agent_pm_jobs.html`.
 9. Verify JSON and frontend script syntax.
 10. Report total jobs, source counts, new/delisted counts, and retry/failure details.
@@ -42,17 +42,17 @@ Use these current output files:
 
 | Source | CSV |
 |---|---|
-| 快手 | `kuaishou_ai_agent_pm_jobs.csv` |
-| 字节跳动 | `bytedance_ai_agent_pm_jobs.csv` |
-| 腾讯 | `tencent_ai_agent_pm_jobs.csv` |
-| 小米 | `xiaomi_ai_agent_pm_jobs.csv` |
-| 百度 | `baidu_ai_agent_pm_jobs.csv` |
-| 理想 | `lixiang_ai_agent_pm_jobs.csv` |
-| 阿里云 | `aliyun_ai_agent_pm_jobs.csv` |
-| 淘天集团 | `taotian_ai_agent_pm_jobs.csv` |
-| 蚂蚁集团 | `antgroup_ai_agent_pm_jobs.csv` |
-| 千问事业部 | `qianwen_ai_agent_pm_jobs.csv` |
-| 通义 | `tongyi_ai_agent_pm_jobs.csv` |
+| 快手 | `data/kuaishou_ai_agent_pm_jobs.csv` |
+| 字节跳动 | `data/bytedance_ai_agent_pm_jobs.csv` |
+| 腾讯 | `data/tencent_ai_agent_pm_jobs.csv` |
+| 小米 | `data/xiaomi_ai_agent_pm_jobs.csv` |
+| 百度 | `data/baidu_ai_agent_pm_jobs.csv` |
+| 理想 | `data/lixiang_ai_agent_pm_jobs.csv` |
+| 阿里云 | `data/aliyun_ai_agent_pm_jobs.csv` |
+| 淘天集团 | `data/taotian_ai_agent_pm_jobs.csv` |
+| 蚂蚁集团 | `data/antgroup_ai_agent_pm_jobs.csv` |
+| 千问事业部 | `data/qianwen_ai_agent_pm_jobs.csv` |
+| 通义 | `data/tongyi_ai_agent_pm_jobs.csv` |
 
 ## Scraping Techniques
 
@@ -85,7 +85,7 @@ Accept: application/json,text/plain,*/*
 - Query params: `page`, `page_size=10`, `search`.
 - Detail API: `https://www.lixiang.com/osd-hr-recruitment-website/v1/recruit/job/detail?job_id=...`
 - Detail URL: `https://www.lixiang.com/employ/detail/{job_id}.html`
-- The current list/detail API may not provide publish time. For each new official job with no publish time, set `发布时间` to the current successful crawl timestamp as its recorded/entry time. If the job already exists in `lixiang_ai_agent_pm_jobs.csv`, preserve the existing `发布时间`.
+- The current list/detail API may not provide publish time. For each new official job with no publish time, set `发布时间` to the current successful crawl timestamp as its recorded/entry time. If the job already exists in `data/lixiang_ai_agent_pm_jobs.csv`, preserve the existing `发布时间`.
 
 ### 阿里云 / 淘天集团 / 千问事业部 / 通义
 

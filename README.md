@@ -10,10 +10,10 @@
 ## 项目文件
 
 - `ai_agent_pm_jobs.html`：静态岗位看板，直接用浏览器打开即可查看
-- `*_ai_agent_pm_jobs.csv`：各公司岗位明细数据
-- `*_ai_agent_pm_jobs.md`：各公司岗位明细 Markdown 版本
+- `data/*_ai_agent_pm_jobs.csv`：各公司岗位明细数据
+- `data/*_ai_agent_pm_jobs.md`：各公司岗位明细 Markdown 版本
 - `.codex/skills/ai-agent-pm-job-radar/SKILL.md`：Codex Skill，记录抓取、重试、归一化和页面更新规则
-- `ai_agent_pm_job_change_log.csv` / `.md`：岗位变更日志
+- `data/ai_agent_pm_job_change_log.csv` / `.md`：岗位变更日志
 
 ## 当前已支持公司
 
