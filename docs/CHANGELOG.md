@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ### Added
 - AI / Agent 产品经理岗位雷达改为通过本机 Codex Skill 由 Agent 主动抓取和更新数据，不再依赖仓库内固定 Python 抓取脚本或 macOS LaunchAgent 定时任务。
+- README 增加静态 HTML 看板截图，便于 GitHub 项目页直接展示页面效果。
 - AI / Agent 产品经理岗位雷达 Skill 内置各来源抓取技巧与重试策略；单个来源失败时 Agent 会先自主重试一次，重试仍失败才保留旧数据继续执行。
 - AI / Agent 产品经理岗位雷达新增百度社会招聘数据源，页面统计、筛选和变动聚合支持第五家公司。
 - AI / Agent 产品经理岗位雷达新增理想汽车社会招聘数据源，页面统计、筛选和变动聚合支持第六家公司。

@@ -13,6 +13,10 @@
 - `data/`：岗位 CSV、Markdown 明细和岗位变动记录。
 - `.codex/skills/ai-agent-pm-job-radar/SKILL.md`：Codex Skill 使用说明，记录各招聘站抓取技巧、重试策略和页面更新规则。
 
+## 页面截图
+
+![AI / Agent 产品经理岗位看板截图](assets/ai-agent-pm-dashboard.png)
+
 ## 当前已支持公司
 
 | 公司名 | 岗位数量 | 更新时间 |
