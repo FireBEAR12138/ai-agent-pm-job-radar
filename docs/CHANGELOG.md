@@ -23,6 +23,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - 修正阿里云、淘天集团、千问事业部和通义招聘列表搜索 channel，避免详情接口可用但列表搜索返回空结果或只返回子站数据导致岗位数量偏少。
 - 修正蚂蚁集团招聘抓取入口，改为通过浏览器态捕获 `hrcareersweb.antgroup.com/api/social/position/search` 请求并复用会话分页抓取。
 - 修正理想汽车招聘详情字段解析，使用 `description` 与 `requirements` 合并生成 JD，避免岗位要求缺失。
+- 修正快手招聘抓取方式，改为通过官网前端签名请求分页获取 `positions/simple` 数据，并记录 `description` 与 `positionDemand` 合并 JD 的规则。
+- 优化腾讯招聘抓取方式，先用列表过滤候选岗位，再对候选岗位短超时补抓详情，确保可用时合并 `Requirement` 岗位要求。
+- 修正百度招聘抓取请求参数，使用表单编码、官网 Referer 和 `pageSize=10` 分页，避免 `illegal-visit` 或 `Illegal argument : pageSize`。
 
 ## [3.6.0] - 2026-03-14
 
