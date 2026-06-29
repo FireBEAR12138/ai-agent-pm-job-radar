@@ -85,6 +85,7 @@ Accept: application/json,text/plain,*/*
 - Query params: `page`, `page_size=10`, `search`.
 - Detail API: `https://www.lixiang.com/osd-hr-recruitment-website/v1/recruit/job/detail?job_id=...`
 - Detail URL: `https://www.lixiang.com/employ/detail/{job_id}.html`
+- JD fields: `description` and `requirements`.
 - The current list/detail API may not provide publish time. For each new official job with no publish time, set `发布时间` to the current successful crawl timestamp as its recorded/entry time. If the job already exists in `data/lixiang_ai_agent_pm_jobs.csv`, preserve the existing `发布时间`.
 
 ### 阿里云 / 淘天集团 / 千问事业部 / 通义
@@ -130,13 +131,21 @@ Empty results are valid for these sources; write a header-only CSV and show coun
 ### 蚂蚁集团
 
 - Page: `https://talent.antgroup.com/off-campus?categories=97&search=ai`
-- Frontend references `/api/social/position/search`, but direct POST may return `405`.
-- Try once, retry once if blocked, then treat empty result as valid and write a header-only CSV.
-- Intended payload shape if accessible:
+- This site uses a separate browser-gated API host, not the Alibaba CPO `/position/search` host.
+- Use a real browser session when direct requests return `405`:
+  1. Open the page URL.
+  2. Capture the first `POST https://hrcareersweb.antgroup.com/api/social/position/search?ctoken=...` request.
+  3. Reuse that request URL, `front-user-id` header, cookies, and browser context.
+  4. Paginate with `pageSize=10` and increment `pageIndex` until fewer than 10 rows return.
+- Working payload shape:
 
 ```json
-{"key":"AI","regions":"","categories":"97","subCategories":"97","bgCode":"","pageIndex":1,"pageSize":50,"channel":"group_official_site","language":"zh_CN"}
+{"key":"ai","regions":"","categories":"97","subCategories":"97,98,99,100,101,102,403,404,405,406","bgCode":"","socialQrCode":"","pageIndex":1,"pageSize":10,"channel":"group_official_site","language":"zh"}
 ```
+
+- The search response already includes `description`, `requirement`, `workLocations`, `publishTime`, and `id`; merge `description` and `requirement` into JD.
+- Detail URL format: `https://talent.antgroup.com/off-campus-position/{id}`.
+- Do not treat a non-browser `405` as empty results; fall back to browser-captured requests first.
 
 ### 快手 / 字节跳动 / 小米
 

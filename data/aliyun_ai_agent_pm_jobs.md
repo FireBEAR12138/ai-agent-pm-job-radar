@@ -2,40 +2,25 @@
 
 | 岗位 | 命中关键词 | 地点 | 发布时间 | URL |
 |---|---|---|---|---|
-| 阿里云智能-AI原生数据库产品经理-北京/杭州 | AI, Agent | 北京 / 杭州 | 2026年06月26日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100014403005) |
-| 阿里云智能-AI Native 应用产品经理 - AI Coding / Agent 方向-专有云（北京&杭州） | AI, Agent | 北京 / 杭州 | 2026年06月24日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100015463012) |
-| ATH事业群-产品经理-AI解决方案（北京/杭州/深圳） | AI, Agent | 北京 / 深圳 / 杭州 | 2026年06月24日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100015463013) |
-| ATH事业群-产品经理-AI应用（杭州/北京） | AI, Agent | 北京 / 杭州 | 2026年06月24日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100015523014) |
-| ATH事业群-图像视频 AIGC 产品经理（海外）-北京/杭州 | AI | 北京 / 杭州 | 2026年06月17日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100015463009) |
-| ATH事业群-AI短漫剧产品经理-AIGC团队 | AI, Agent | 北京 / 杭州 | 2026年06月17日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100015563009) |
-| 阿里云智能-产品经理-供应链管理方向-杭州 | AI, Agent | 杭州 | 2026年06月12日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100015503003) |
-| 阿里云智能-AI Agent 产品经理-秒悟-杭州 | AI, Agent | 杭州 | 2026年06月10日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100007603004) |
-| 阿里云智能-终端智能创新业务 AI 硬件产品经理-杭州/上海/北京/深圳 | AI | 北京 / 深圳 / 杭州 / 上海 | 2026年06月08日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100009623004) |
-| ATH事业群-AI 产品经理/专家-AI视频生成-杭州 | AI, Agent | 杭州 | 2026年06月04日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100012503001) |
-| ATH事业群-AI Agent产品经理-杭州/北京 | AI, Agent | 北京 / 杭州 | 2026年05月27日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100014423005) |
-| 诚云科技-资深产品经理-国际 | AI, Agent | 北京 / 杭州 | 2026年05月26日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100014323002) |
-| ATH事业群-金融AI产品经理-杭州 | AI, Agent | 杭州 | 2026年05月26日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100013763007) |
-| 阿里云智能-AI解决方案产品经理（Agent /AIGC/CV/多模态模型/LLM方向）-杭州 | AI, Agent | 杭州 | 2026年05月18日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100012883001) |
-| ATH事业群-AI原生应用产品经理-杭州 | AI, Agent | 杭州 | 2026年05月18日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100011383005) |
-| 阿里云智能-终端智能创新业务 AI 产品经理（桌面Agent方向）-杭州/上海/北京/深圳 | AI, Agent | 北京 / 深圳 / 杭州 / 上海 | 2026年04月28日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100009663004) |
-| 阿里云智能-终端智能创新业务 AI 产品经理（AI应用方向）-杭州/上海/北京/深圳 | AI, Agent | 北京 / 深圳 / 杭州 / 上海 | 2026年04月27日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100009683004) |
-| 阿里云智能-无影产品经理-杭州 | AI | 杭州 | 2026年04月14日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?lang=zh&positionId=100009823002) |
+| 阿里云智能-AI Native 应用产品经理 - AI Coding / Agent 方向-专有云（北京&杭州） | AI, Agent | 北京 / 杭州 | 2026年06月29日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015463012) |
+| 阿里云智能-AI原生数据库产品经理-北京/杭州 | AI, Agent | 北京 / 杭州 | 2026年06月26日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100014403005) |
+| ATH事业群-产品经理-AI解决方案（北京/杭州/深圳） | AI, Agent | 北京 / 深圳 / 杭州 | 2026年06月24日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015463013) |
+| ATH事业群-产品经理-AI应用（杭州/北京） | AI, Agent | 北京 / 杭州 | 2026年06月24日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015523014) |
+| ATH事业群-图像视频 AIGC 产品经理（海外）-北京/杭州 | AI | 北京 / 杭州 | 2026年06月17日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015463009) |
+| ATH事业群-AI短漫剧产品经理-AIGC团队 | AI, Agent | 北京 / 杭州 | 2026年06月17日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015563009) |
+| 阿里云智能-产品经理-供应链管理方向-杭州 | AI, Agent | 杭州 | 2026年06月12日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015503003) |
+| 阿里云智能-AI Agent 产品经理-秒悟-杭州 | AI, Agent | 杭州 | 2026年06月10日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100007603004) |
+| 阿里云智能-终端智能创新业务 AI 硬件产品经理-杭州/上海/北京/深圳 | AI | 北京 / 深圳 / 杭州 / 上海 | 2026年06月08日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100009623004) |
+| ATH事业群-AI 产品经理/专家-AI视频生成-杭州 | AI, Agent | 杭州 | 2026年06月04日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100012503001) |
+| ATH事业群-AI Agent产品经理-杭州/北京 | AI, Agent | 北京 / 杭州 | 2026年05月27日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100014423005) |
+| 诚云科技-资深产品经理-国际 | AI, Agent | 北京 / 杭州 | 2026年05月26日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100014323002) |
+| ATH事业群-金融AI产品经理-杭州 | AI, Agent | 杭州 | 2026年05月26日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100013763007) |
+| 阿里云智能-AI解决方案产品经理（Agent /AIGC/CV/多模态模型/LLM方向）-杭州 | AI, Agent | 杭州 | 2026年05月18日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100012883001) |
+| ATH事业群-AI原生应用产品经理-杭州 | AI, Agent | 杭州 | 2026年05月18日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100011383005) |
+| 阿里云智能-终端智能创新业务 AI 产品经理（AI应用方向）-杭州/上海/北京/深圳 | AI, Agent | 北京 / 深圳 / 杭州 / 上海 | 2026年04月27日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100009683004) |
+| 阿里云智能-无影产品经理-杭州 | AI | 杭州 | 2026年04月14日 | [官网详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100009823002) |
 
 ## JD
-
-### 阿里云智能-AI原生数据库产品经理-北京/杭州
-
-职位描述：
-● 面向Agent，负责AI原生数据库的产品需求分析、功能规划，输出PRD、原型设计及定价策略等；
-● 负责数据库重大项目的项目管理，制定项目计划、里程碑和交付节奏，跟踪并解决项目阻塞问题，确保按时高质量交付；
-● 以AI原生的方式（团队内部同时有Agent和人），协调研发、测试、运维、安全等多团队资源，推动跨团队协作与风险管控。
-
-职位要求：
-● 3-5年产品与项目管理经验，有数据库、云计算或企业级B端产品背景；有Agent相关产品经验者优先；
-● 具备较强的项目管理能力，能独立推进中型项目落地，熟悉敏捷开发流程逻辑清晰、沟通能力强，具备跨团队协作和复杂问题拆解能力；
-● 对云计算产品（AWS、Azure或GCP）和云原生技术如K8s、容器等技术有深入的理解；
-● 了解主流国产芯片/操作系统/中间件生态产品；
-● 熟悉数据库技术（MySQL\Redis\PostgreSQL），以及Agent Runtime、Context Engineering、Harness Engineering等技术者优先；有过Data Agent规划、开发、应用经验者优先。
 
 ### 阿里云智能-AI Native 应用产品经理 - AI Coding / Agent 方向-专有云（北京&杭州）
 
@@ -86,6 +71,20 @@ ToB / 专有云要求
 ● 有企业级产品、云产品、私有化部署、政企客户、金融/能源/运营商/政府等行业客户经验优先。
 ● 理解企业客户对安全、权限、审计、稳定性、可运维、可交付、可验收的要求。
 ● 能适应从客户共创、POC、交付落地到产品化沉淀的完整 ToB 产品节奏。
+
+### 阿里云智能-AI原生数据库产品经理-北京/杭州
+
+职位描述：
+● 面向Agent，负责AI原生数据库的产品需求分析、功能规划，输出PRD、原型设计及定价策略等；
+● 负责数据库重大项目的项目管理，制定项目计划、里程碑和交付节奏，跟踪并解决项目阻塞问题，确保按时高质量交付；
+● 以AI原生的方式（团队内部同时有Agent和人），协调研发、测试、运维、安全等多团队资源，推动跨团队协作与风险管控。
+
+职位要求：
+● 3-5年产品与项目管理经验，有数据库、云计算或企业级B端产品背景；有Agent相关产品经验者优先；
+● 具备较强的项目管理能力，能独立推进中型项目落地，熟悉敏捷开发流程逻辑清晰、沟通能力强，具备跨团队协作和复杂问题拆解能力；
+● 对云计算产品（AWS、Azure或GCP）和云原生技术如K8s、容器等技术有深入的理解；
+● 了解主流国产芯片/操作系统/中间件生态产品；
+● 熟悉数据库技术（MySQL\Redis\PostgreSQL），以及Agent Runtime、Context Engineering、Harness Engineering等技术者优先；有过Data Agent规划、开发、应用经验者优先。
 
 ### ATH事业群-产品经理-AI解决方案（北京/杭州/深圳）
 
@@ -455,23 +454,6 @@ AI能力产品化
 加分项
 有 AI 搜索、知识管理、或 AI 应用平台相关产品经验；
 有大模型应用、RAG、知识工程等相关背景。
-
-### 阿里云智能-终端智能创新业务 AI 产品经理（桌面Agent方向）-杭州/上海/北京/深圳
-
-职位描述：
-1. 负责PC 智能体矩阵产品设计落地，并将其能力深度集成至操作系统内核与系统服务，通过全域上下文感知、任务自主编排与端云协同架构，推动PC从设备升级为效率助理；
-2. 主导设计智能体的多形态呈现方案。确保 Agent 在不同任务深度下，能够通过最优形态提供即时交互、进度反馈及结果展示；
-3. 将用户模糊意图转化为可观测、可中断、可回滚的结构化工作流，在高权限运行环境下，严格保障隐私安全与人工干预能力；
-4. 与系统平台、AI算法、UX 及生态团队紧密协作产品按时保质落地。
-
-
-职位要求：
-1. 3年以上产品经验，主导过 AI Agent类产品，熟悉Agent架构；对主流大模型在 工具调用、多模态感知、任务规划、记忆管理 等方面有深度产品实操经验；
-2. 深入理解大模型在 Function Calling、多模态感知（屏幕/语音/剪贴板）、任务规划、记忆管理 等方向的技术边界与产品化路径。
-【加分项】
-1. OS级Agent或 Multi-Agent 类Agent产品经验优先；
-2. 具备场景Agent 评测体系建设经验者优先；
-3. 有 跨应用工作流设计或生态开放平台经验者优先。
 
 ### 阿里云智能-终端智能创新业务 AI 产品经理（AI应用方向）-杭州/上海/北京/深圳
 

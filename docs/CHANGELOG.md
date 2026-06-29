@@ -21,6 +21,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - 将 `ai-agent-pm-job-radar` Skill 纳入仓库 `.codex/skills/`，便于随项目上传 GitHub 和跨环境同步。
 - AI / Agent 产品经理岗位雷达补充阿里系招聘详情页兜底抓取策略，支持通过 `positionId` 抓取搜索接口漏返的岗位详情。
 - 修正阿里云、淘天集团、千问事业部和通义招聘列表搜索 channel，避免详情接口可用但列表搜索返回空结果或只返回子站数据导致岗位数量偏少。
+- 修正蚂蚁集团招聘抓取入口，改为通过浏览器态捕获 `hrcareersweb.antgroup.com/api/social/position/search` 请求并复用会话分页抓取。
+- 修正理想汽车招聘详情字段解析，使用 `description` 与 `requirements` 合并生成 JD，避免岗位要求缺失。
 
 ## [3.6.0] - 2026-03-14
 
