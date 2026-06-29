@@ -15,7 +15,13 @@
 
 ## 页面截图
 
+### 看板视图
+
 ![AI / Agent 产品经理岗位看板截图](assets/ai-agent-pm-dashboard.png)
+
+### 岗位列表
+
+![AI / Agent 产品经理岗位列表截图](assets/ai-agent-pm-jobs-list.png)
 
 ## 当前已支持公司
 
