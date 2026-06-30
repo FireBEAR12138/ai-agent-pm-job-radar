@@ -102,6 +102,7 @@ These share the Alibaba CPO portal pattern:
 1. GET the page URL.
 2. Extract `window.__sysconfig.__token__`.
 3. Extract `window.__sysconfig.channelCodeMap.offCampus`; fallback to the known channel.
+   - If the extracted off-campus channel returns `totalCount=0` for obvious populated searches, retry with `group_official_site` before treating the source as empty. Some Alibaba portals expose a source-specific channel in the page config while the public search results are returned only for `group_official_site`.
 4. POST `{host}/position/search?_csrf={token}` as JSON:
 
 ```json

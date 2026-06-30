@@ -1,7 +1,335 @@
-| 日期 | 总岗位 | 新增总数 | 下架总数 | 快手新增 | 快手下架 | 字节新增 | 字节下架 | 腾讯新增 | 腾讯下架 | 小米新增 | 小米下架 | 百度新增 | 百度下架 | 理想新增 | 理想下架 | 阿里云新增 | 阿里云下架 | 淘天新增 | 淘天下架 | 蚂蚁新增 | 蚂蚁下架 | 千问新增 | 千问下架 | 通义新增 | 通义下架 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026-06-25 | 738 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2026-06-26 | 760 | 22 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 22 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2026-06-27 | 841 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2026-06-28 | 946 | 105 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 18 | 0 | 61 | 0 | 0 | 0 | 23 | 0 | 3 | 0 |
-| 2026-06-29 | 1047 | 140 | 67 | 1 | 3 | 0 | 0 | 78 | 64 | 0 | 0 | 61 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 变动日期 | 变动类型 | 公司 | 岗位 | 岗位发布时间 | URL |
+|---|---|---|---|---|---|
+| 2026-07-01 | 下架 |  | 阿里云智能-AI Native 应用产品经理 - AI Coding / Agent 方向-专有云（北京&杭州） | 2026年06月29日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463012 |
+| 2026-07-01 | 下架 |  | 营销平台及市场部-营销导购产品经理（AI方向）-杭州 | 2026年06月29日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013020009 |
+| 2026-07-01 | 下架 |  | 淘宝平台事业部-AI产品经理-虚拟商品行业 | 2026年06月29日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013600002 |
+| 2026-07-01 | 下架 |  | 淘宝平台事业部-AI产品经理-业务风控部 | 2026年06月29日 | https://talent.taotian.com/off-campus/position-detail?positionId=100007800013 |
+| 2026-07-01 | 下架 |  | 天猫国际-供应链产品经理-杭州 | 2026年06月29日 | https://talent.taotian.com/off-campus/position-detail?positionId=100017180001 |
+| 2026-07-01 | 下架 |  | 天猫事业部-AI导购产品经理-杭州 | 2026年06月29日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013280001 |
+| 2026-07-01 | 下架 |  | AI创新事业部-AIGC产品经理 / 高级产品专家（多模态方向）-未来生活实验室 | 2026年06月29日 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100007080003 |
+| 2026-07-01 | 下架 |  | 阿里妈妈-内容广告产品经理-北京/杭州 | 2026年06月27日 | https://talent.taotian.com/off-campus/position-detail?positionId=100021080003 |
+| 2026-07-01 | 下架 |  | 阿里妈妈-AIGC产品经理-杭州/北京 | 2026年06月27日 | https://talent.taotian.com/off-campus/position-detail?positionId=100021080002 |
+| 2026-07-01 | 下架 |  | 混元大模型数据平台产品经理（深圳） | 2026年06月26日 | https://careers.tencent.com/jobdesc.html?postId=2036691023102640128 |
+| 2026-07-01 | 下架 |  | 阿里云智能-AI原生数据库产品经理-北京/杭州 | 2026年06月26日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014403005 |
+| 2026-07-01 | 下架 |  | 阿里妈妈-流量机制产品经理-杭州/北京 | 2026年06月25日 | https://talent.taotian.com/off-campus/position-detail?positionId=100020640004 |
+| 2026-07-01 | 下架 |  | 千问事业部-UC浏览器产品经理-会员产品-广州 | 2026年06月25日 | https://talent.quark.cn/off-campus/position-detail?positionId=100020840003 |
+| 2026-07-01 | 下架 |  | 游戏美术 AIGC 产品经理 | 2026年06月24日 | https://careers.tencent.com/jobdesc.html?postId=2036274661179944960 |
+| 2026-07-01 | 下架 |  | ATH事业群-产品经理-AI解决方案（北京/杭州/深圳） | 2026年06月24日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463013 |
+| 2026-07-01 | 下架 |  | ATH事业群-产品经理-AI应用（杭州/北京） | 2026年06月24日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015523014 |
+| 2026-07-01 | 下架 |  | 淘宝平台事业部-智能产品经理-商家服务 | 2026年06月24日 | https://talent.taotian.com/off-campus/position-detail?positionId=100010040045 |
+| 2026-07-01 | 下架 |  | 智能算法产品事业部-拍立淘产品经理-杭州 | 2026年06月24日 | https://talent.taotian.com/off-campus/position-detail?positionId=7000046108 |
+| 2026-07-01 | 下架 |  | 天猫事业部-手机天猫搜索产品经理-杭州 | 2026年06月23日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013760008 |
+| 2026-07-01 | 下架 |  | M&T事业部-淘工厂-agent产品经理 | 2026年06月23日 | https://talent.taotian.com/off-campus/position-detail?positionId=100017780002 |
+| 2026-07-01 | 下架 |  | 搜推智能产品事业部-搜索机制策略产品经理-杭州 | 2026年06月22日 | https://talent.taotian.com/off-campus/position-detail?positionId=100006520002 |
+| 2026-07-01 | 下架 |  | 平台及用户产品事业部-产品经理-杭州 | 2026年06月22日 | https://talent.taotian.com/off-campus/position-detail?positionId=100019420007 |
+| 2026-07-01 | 下架 |  | 千问事业部-商业化产品经理（夸克/UC/书旗）-北京 | 2026年06月22日 | https://talent.quark.cn/off-campus/position-detail?positionId=100012140001 |
+| 2026-07-01 | 下架 |  | Token Foundry-语音AI产品经理-通义百聆 | 2026年06月22日 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100011240002 |
+| 2026-07-01 | 下架 |  | 阿里妈妈-商业化产品经理（无线小程序广告）-杭州/北京 | 2026年06月18日 | https://talent.taotian.com/off-campus/position-detail?positionId=100017460003 |
+| 2026-07-01 | 下架 |  | 淘天直播电商-频道产品经理-杭州 | 2026年06月18日 | https://talent.taotian.com/off-campus/position-detail?positionId=100014100008 |
+| 2026-07-01 | 下架 |  | 淘天直播电商-AI电商产品经理-北京 | 2026年06月18日 | https://talent.taotian.com/off-campus/position-detail?positionId=100015180001 |
+| 2026-07-01 | 下架 |  | 天猫国际-AI产品经理（营销&数据）-杭州 | 2026年06月18日 | https://talent.taotian.com/off-campus/position-detail?positionId=100012000010 |
+| 2026-07-01 | 下架 |  | 天猫国际-AI产品经理(供给&交易)-杭州 | 2026年06月18日 | https://talent.taotian.com/off-campus/position-detail?positionId=100012860002 |
+| 2026-07-01 | 下架 |  | 千问事业部-千问/夸克-语音AI产品经理-杭州/北京 | 2026年06月18日 | https://talent.quark.cn/off-campus/position-detail?positionId=100008180002 |
+| 2026-07-01 | 下架 |  | 千问事业部-AI智投产品经理（超级汇川）-北京 | 2026年06月18日 | https://talent.quark.cn/off-campus/position-detail?positionId=100010280018 |
+| 2026-07-01 | 下架 |  | ATH事业群-图像视频 AIGC 产品经理（海外）-北京/杭州 | 2026年06月17日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463009 |
+| 2026-07-01 | 下架 |  | ATH事业群-AI短漫剧产品经理-AIGC团队 | 2026年06月17日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015563009 |
+| 2026-07-01 | 下架 |  | 1688-AI商家经营产品经理-杭州 | 2026年06月17日 | https://talent.taotian.com/off-campus/position-detail?positionId=100019560002 |
+| 2026-07-01 | 下架 |  | 智能算法产品事业部-资深AIGC大模型产品经理-杭州 | 2026年06月16日 | https://talent.taotian.com/off-campus/position-detail?positionId=100011640038 |
+| 2026-07-01 | 下架 |  | 天猫事业部-商家AI数据产品经理-杭州 | 2026年06月16日 | https://talent.taotian.com/off-campus/position-detail?positionId=100010480008 |
+| 2026-07-01 | 下架 |  | 千问事业部-AI 产品经理 - 千问语音Agent-北京/杭州 | 2026年06月16日 | https://talent.quark.cn/off-campus/position-detail?positionId=100010900011 |
+| 2026-07-01 | 下架 |  | 淘宝平台事业部-AI产品经理-平台物流 | 2026年06月15日 | https://talent.taotian.com/off-campus/position-detail?positionId=100000980008 |
+| 2026-07-01 | 下架 |  | 平台及用户产品事业部-AI to C产品经理-杭州 | 2026年06月15日 | https://talent.taotian.com/off-campus/position-detail?positionId=100009460014 |
+| 2026-07-01 | 下架 |  | 1688-资金产品经理-杭州 | 2026年06月15日 | https://talent.taotian.com/off-campus/position-detail?positionId=100019260008 |
+| 2026-07-01 | 下架 |  | 1688-AI应用产品经理-产业智联 | 2026年06月15日 | https://talent.taotian.com/off-campus/position-detail?positionId=100018180002 |
+| 2026-07-01 | 下架 |  | 千问事业部-广告产品经理(超级汇川)-北京 | 2026年06月15日 | https://talent.quark.cn/off-campus/position-detail?positionId=100010320013 |
+| 2026-07-01 | 下架 |  | 天猫事业部-汽车行业产品经理-杭州 | 2026年06月13日 | https://talent.taotian.com/off-campus/position-detail?positionId=100019280002 |
+| 2026-07-01 | 下架 |  | 阿里云智能-产品经理-供应链管理方向-杭州 | 2026年06月12日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015503003 |
+| 2026-07-01 | 下架 |  | 搜推智能产品事业部-AI推荐策略产品经理-杭州 | 2026年06月12日 | https://talent.taotian.com/off-campus/position-detail?positionId=7000044106 |
+| 2026-07-01 | 下架 |  | 天猫事业部-商家AI Agent 产品经理-杭州 | 2026年06月12日 | https://talent.taotian.com/off-campus/position-detail?positionId=100017560001 |
+| 2026-07-01 | 下架 |  | 天猫事业部-C端产品经理（U先试用）-杭州 | 2026年06月12日 | https://talent.taotian.com/off-campus/position-detail?positionId=100011960002 |
+| 2026-07-01 | 下架 |  | 淘宝平台事业部-端用户产品经理-端用户产品 | 2026年06月11日 | https://talent.taotian.com/off-campus/position-detail?positionId=100014540004 |
+| 2026-07-01 | 下架 |  | 平台及用户产品事业部-商品详情产品经理-AI/垂类方向 | 2026年06月11日 | https://talent.taotian.com/off-campus/position-detail?positionId=7000043120 |
+| 2026-07-01 | 下架 |  | M&T事业部-产业带运营-AI工作台产品经理 | 2026年06月11日 | https://talent.taotian.com/off-campus/position-detail?positionId=100018980001 |
+| 2026-07-01 | 下架 |  | 阿里云智能-AI Agent 产品经理-秒悟-杭州 | 2026年06月10日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100007603004 |
+| 2026-07-01 | 下架 |  | M&T事业部-猫超交易产品经理-杭州 | 2026年06月09日 | https://talent.taotian.com/off-campus/position-detail?positionId=100018640027 |
+| 2026-07-01 | 下架 |  | Token Foundry-多模态大模型产品经理-杭州 | 2026年06月09日 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100013020010 |
+| 2026-07-01 | 下架 |  | 阿里云智能-终端智能创新业务 AI 硬件产品经理-杭州/上海/北京/深圳 | 2026年06月08日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100009623004 |
+| 2026-07-01 | 下架 |  | 聚划算&百亿补贴-AI产品经理-用户产品-杭州 | 2026年06月08日 | https://talent.taotian.com/off-campus/position-detail?positionId=100018680019 |
+| 2026-07-01 | 下架 |  | 天猫事业部-运营AI产品经理-杭州 | 2026年06月08日 | https://talent.taotian.com/off-campus/position-detail?positionId=100017480001 |
+| 2026-07-01 | 下架 |  | 天猫事业部-店铺AI导购产品经理-杭州 | 2026年06月08日 | https://talent.taotian.com/off-campus/position-detail?positionId=100018700018 |
+| 2026-07-01 | 下架 |  | M&T事业部-商家端AI产品经理-商家线 | 2026年06月08日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013320019 |
+| 2026-07-01 | 下架 |  | 千问事业部-用户产品经理-书旗小说APP | 2026年06月08日 | https://talent.quark.cn/off-campus/position-detail?positionId=100012780005 |
+| 2026-07-01 | 下架 |  | 千问事业部-夸克搜索-内容策略产品经理-北京/杭州 | 2026年06月08日 | https://talent.quark.cn/off-campus/position-detail?positionId=100008920001 |
+| 2026-07-01 | 下架 |  | ATH事业群-AI 产品经理/专家-AI视频生成-杭州 | 2026年06月04日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100012503001 |
+| 2026-07-01 | 下架 |  | 淘宝平台事业部-AI产品经理-客服资源方向 | 2026年06月03日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013180006 |
+| 2026-07-01 | 下架 |  | 智能算法产品事业部-运营平台产品经理-杭州 | 2026年06月03日 | https://talent.taotian.com/off-campus/position-detail?positionId=100011700028 |
+| 2026-07-01 | 下架 |  | 千问事业部-AIGC产品经理（超级汇川）-北京 | 2026年06月03日 | https://talent.quark.cn/off-campus/position-detail?positionId=100010180020 |
+| 2026-07-01 | 下架 |  | 千问事业部-AI 商业化产品经理（全域营销业务）-北京 | 2026年06月03日 | https://talent.quark.cn/off-campus/position-detail?positionId=100015480001 |
+| 2026-07-01 | 下架 |  | 智能投顾资产运营-高级产品经理 | 2026年06月02日 | https://careers.tencent.com/jobdesc.html?postId=2036619375171235840 |
+| 2026-07-01 | 下架 |  | 营销平台及市场部-中后台AI产品经理-杭州 | 2026年06月02日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013640012 |
+| 2026-07-01 | 下架 |  | 天猫事业部-零售产品经理（优品）-杭州 | 2026年06月02日 | https://talent.taotian.com/off-campus/position-detail?positionId=100018420006 |
+| 2026-07-01 | 下架 |  | 天猫事业部-渠道产品经理（优品）-杭州 | 2026年06月02日 | https://talent.taotian.com/off-campus/position-detail?positionId=100018320006 |
+| 2026-07-01 | 下架 |  | 淘天集团-AI产品经理-ideaLAB | 2026年06月01日 | https://talent.taotian.com/off-campus/position-detail?positionId=100018200002 |
+| 2026-07-01 | 下架 |  | 千问事业部-夸克网盘生态（分享&快传方向）产品经理-北京 | 2026年06月01日 | https://talent.quark.cn/off-campus/position-detail?positionId=100007800007 |
+| 2026-07-01 | 下架 |  | 营销平台及市场部-营销平台产品经理（AI方向）-杭州 | 2026年05月28日 | https://talent.taotian.com/off-campus/position-detail?positionId=100017580001 |
+| 2026-07-01 | 下架 |  | 淘宝平台事业部-AI产品经理-内控治理 | 2026年05月28日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013700004 |
+| 2026-07-01 | 下架 |  | ATH事业群-AI Agent产品经理-杭州/北京 | 2026年05月27日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014423005 |
+| 2026-07-01 | 下架 |  | 天猫事业部-商家平台AI内容产品经理-杭州 | 2026年05月27日 | https://talent.taotian.com/off-campus/position-detail?positionId=100017500001 |
+| 2026-07-01 | 下架 |  | 千问事业部-UC客户端产品经理-用户运营方向 | 2026年05月27日 | https://talent.quark.cn/off-campus/position-detail?positionId=100017180002 |
+| 2026-07-01 | 下架 |  | 诚云科技-资深产品经理-国际 | 2026年05月26日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014323002 |
+| 2026-07-01 | 下架 |  | ATH事业群-金融AI产品经理-杭州 | 2026年05月26日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100013763007 |
+| 2026-07-01 | 下架 |  | 淘宝平台事业部-AI产品经理-阿里资产 | 2026年05月26日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013680001 |
+| 2026-07-01 | 下架 |  | 智能算法产品事业部-AI 搜索评测 · 产品经理-杭州 | 2026年05月26日 | https://talent.taotian.com/off-campus/position-detail?positionId=100017080003 |
+| 2026-07-01 | 下架 |  | 业务技术-产品经理-交易平台产品（AI） | 2026年05月26日 | https://talent.taotian.com/off-campus/position-detail?positionId=100009920051 |
+| 2026-07-01 | 下架 |  | 千问事业部-千问策略产品经理-北京/杭州 | 2026年05月26日 | https://talent.quark.cn/off-campus/position-detail?positionId=100010300008 |
+| 2026-07-01 | 下架 |  | 千问事业部-千问 Agent产品经理-北京/杭州 | 2026年05月26日 | https://talent.quark.cn/off-campus/position-detail?positionId=100010200013 |
+| 2026-07-01 | 下架 |  | 智能算法产品事业部-AI标注/评测产品经理-杭州 | 2026年05月25日 | https://talent.taotian.com/off-campus/position-detail?positionId=100012060008 |
+| 2026-07-01 | 下架 |  | 智能算法产品事业部-搜索AI产品经理-杭州 | 2026年05月22日 | https://talent.taotian.com/off-campus/position-detail?positionId=7000046614 |
+| 2026-07-01 | 下架 |  | 千问事业部-千问-AI工具产品经理-北京/广州 | 2026年05月22日 | https://talent.quark.cn/off-campus/position-detail?positionId=100011400011 |
+| 2026-07-01 | 下架 |  | 智能算法产品事业部-AI产品经理-杭州 | 2026年05月20日 | https://talent.taotian.com/off-campus/position-detail?positionId=100010080005 |
+| 2026-07-01 | 下架 |  | 千问事业部-千问C端产品经理-北京/杭州 | 2026年05月20日 | https://talent.quark.cn/off-campus/position-detail?positionId=100010200012 |
+| 2026-07-01 | 下架 |  | 天猫事业部-商家AI产品经理-杭州 | 2026年05月19日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013260018 |
+| 2026-07-01 | 下架 |  | 商家营销产品-高级产品经理-营销产品 | 2026年05月19日 | https://talent.taotian.com/off-campus/position-detail?positionId=100012980014 |
+| 2026-07-01 | 下架 |  | 千问事业部-AI产品经理-杭州 | 2026年05月19日 | https://talent.quark.cn/off-campus/position-detail?positionId=7000025002 |
+| 2026-07-01 | 下架 |  | 阿里云智能-AI解决方案产品经理（Agent /AIGC/CV/多模态模型/LLM方向）-杭州 | 2026年05月18日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100012883001 |
+| 2026-07-01 | 下架 |  | ATH事业群-AI原生应用产品经理-杭州 | 2026年05月18日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100011383005 |
+| 2026-07-01 | 下架 |  | 千问事业部-千问C端主对话产品经理-北京/杭州 | 2026年05月18日 | https://talent.quark.cn/off-campus/position-detail?positionId=100008760022 |
+| 2026-07-01 | 下架 |  | 淘天营销平台-商业化产品经理（AI）-杭州 | 2026年05月12日 | https://talent.taotian.com/off-campus/position-detail?positionId=100014380006 |
+| 2026-07-01 | 下架 |  | 千问事业部-多模态问答产品经理-VQA图片问答方向 | 2026年05月11日 | https://talent.quark.cn/off-campus/position-detail?positionId=100013180014 |
+| 2026-07-01 | 下架 |  | 营销平台及市场部-AI产品经理-杭州 | 2026年05月08日 | https://talent.taotian.com/off-campus/position-detail?positionId=100014060010 |
+| 2026-07-01 | 下架 |  | 千问事业部-大模型应用产品经理-软硬件结合方向-杭州/北京 | 2026年05月08日 | https://talent.quark.cn/off-campus/position-detail?positionId=100010920020 |
+| 2026-07-01 | 下架 |  | 阿里云智能-终端智能创新业务 AI 产品经理（AI应用方向）-杭州/上海/北京/深圳 | 2026年04月27日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100009683004 |
+| 2026-07-01 | 下架 |  | 淘宝平台事业部-AI产品经理-场景金融 | 2026年04月27日 | https://talent.taotian.com/off-campus/position-detail?positionId=100013600005 |
+| 2026-07-01 | 下架 |  | 天猫事业部-产品经理-供给与导购方向-运动户外行业 | 2026年04月22日 | https://talent.taotian.com/off-campus/position-detail?positionId=100001000003 |
+| 2026-07-01 | 下架 |  | 千问事业部-全屋智能C端产品经理-杭州 | 2026年04月22日 | https://talent.quark.cn/off-campus/position-detail?positionId=7000046515 |
+| 2026-07-01 | 下架 |  | 天猫事业部-策略产品经理-千牛-商家成长 | 2026年04月21日 | https://talent.taotian.com/off-campus/position-detail?positionId=100011180013 |
+| 2026-07-01 | 下架 |  | 阿里云智能-无影产品经理-杭州 | 2026年04月14日 | https://careers.aliyun.com/off-campus/position-detail?positionId=100009823002 |
+| 2026-07-01 | 下架 |  | M&T事业部-淘工厂产品技术-用户增长产品经理 | 2026年04月02日 | https://talent.taotian.com/off-campus/position-detail?positionId=100010200023 |
+| 2026-07-01 | 新增 | 快手 | AI数据产品经理-【电商】 | 2026-06-30T13:06:09.000+08:00 | https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30395 |
+| 2026-07-01 | 新增 | 快手 | B端产品经理（AI方向）-【生活服务】 | 2026-06-30T10:50:38.000+08:00 | https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/30895 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI比价产品经理-杭州 | 2026-06-30 17:51:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100006180008&track_id=SSP1782837437779OSfJOMjONZ4700 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI比价产品经理-杭州 | 2026-06-30 17:51:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100006180008&track_id=SSP1782837438479NehVivruIA7149 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI比价产品经理-杭州 | 2026-06-30 17:51:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100006180008&track_id=SSP1782837440031qjDfwPVeKq4098 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-搜索垂直化导购产品经理-杭州 | 2026-06-30 14:07:58 | https://talent.taotian.com/off-campus/position-detail?positionId=100005980010&track_id=SSP1782837440202NBwQqCZDDB1962 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-用户产品经理-书旗小说APP | 2026-06-30 10:25:25 | https://talent.quark.cn/off-campus/position-detail?positionId=100012780005&track_id=SSP1782837441985mGeheXokHP7657 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-商业化产品经理（夸克/UC/书旗）-北京 | 2026-06-30 10:23:24 | https://talent.quark.cn/off-campus/position-detail?positionId=100012140001&track_id=SSP1782837441985eLuWPbJDYa6853 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AIGC产品经理（超级汇川）-北京 | 2026-06-30 10:22:45 | https://talent.quark.cn/off-campus/position-detail?positionId=100010180020&track_id=SSP1782837441559LVPfFrsphn9153 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AIGC产品经理（超级汇川）-北京 | 2026-06-30 10:22:45 | https://talent.quark.cn/off-campus/position-detail?positionId=100010180020&track_id=SSP1782837441985EiPWcExOtL2056 |
+| 2026-07-01 | 新增 | 淘天集团 | 阿里妈妈-广告流量机制产品经理-杭州/北京 | 2026-06-30 10:13:35 | https://talent.taotian.com/off-campus/position-detail?positionId=100020640004&track_id=SSP1782837440202kgxFShewfF8898 |
+| 2026-07-01 | 新增 | 百度 | AI产品经理（海外AIGC平台功能方向）（J101288） | 2026-06-30 | https://talent.baidu.com/jobs/detail/SOCIAL/7521ad0e-0eb7-4822-86e4-52ebe51e53eb |
+| 2026-07-01 | 新增 | 通义 | AI创新事业部-AIGC产品经理 / 高级产品专家（多模态方向）-未来生活实验室 | 2026-06-29 17:04:21 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100007080003&track_id=SSP1782837442475LIspqpjnYh2660 |
+| 2026-07-01 | 新增 | 通义 | AI创新事业部-AIGC产品经理 / 高级产品专家（多模态方向）-未来生活实验室 | 2026-06-29 17:04:21 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100007080003&track_id=SSP1782837442647qoHMXBmTio8574 |
+| 2026-07-01 | 新增 | 通义 | AI创新事业部-AIGC产品经理 / 高级产品专家（多模态方向）-未来生活实验室 | 2026-06-29 17:04:21 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100007080003&track_id=SSP1782837443076sDiuNjRMyC5005 |
+| 2026-07-01 | 新增 | 通义 | AI创新事业部-AIGC产品经理 / 高级产品专家（多模态方向）-未来生活实验室 | 2026-06-29 17:04:21 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100007080003&track_id=SSP1782837443361JvyHxpRLRQ5961 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI Native 应用产品经理 - AI Coding / Agent 方向-专有云（北京&杭州） | 2026-06-29 15:29:26 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463012&track_id=SSP1782837424844lnzbzaHNtg3123 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI Native 应用产品经理 - AI Coding / Agent 方向-专有云（北京&杭州） | 2026-06-29 15:29:26 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463012&track_id=SSP1782837431144fNaVQywRgI3352 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI Native 应用产品经理 - AI Coding / Agent 方向-专有云（北京&杭州） | 2026-06-29 15:29:26 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463012&track_id=SSP1782837434369GIuBxJYOJL4463 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI Native 应用产品经理 - AI Coding / Agent 方向-专有云（北京&杭州） | 2026-06-29 15:29:26 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463012&track_id=SSP1782837437227AilBgQPGMK6654 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫国际-供应链产品经理-杭州 | 2026-06-29 13:12:22 | https://talent.taotian.com/off-campus/position-detail?positionId=100017180001&track_id=SSP1782837440031fRKrpBanEU7644 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-虚拟商品行业 | 2026-06-29 10:56:28 | https://talent.taotian.com/off-campus/position-detail?positionId=100013600002&track_id=SSP1782837437779JNYAmAJyGd2525 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-虚拟商品行业 | 2026-06-29 10:56:28 | https://talent.taotian.com/off-campus/position-detail?positionId=100013600002&track_id=SSP1782837438479JmsiRYgtsX1618 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-虚拟商品行业 | 2026-06-29 10:56:28 | https://talent.taotian.com/off-campus/position-detail?positionId=100013600002&track_id=SSP1782837440202zwLdGOmqzt7321 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-AI导购产品经理-杭州 | 2026-06-29 10:16:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100013280001&track_id=SSP1782837438056YjmiTGPIfm9134 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-AI导购产品经理-杭州 | 2026-06-29 10:16:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100013280001&track_id=SSP1782837438714FowffUGgwY7979 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-AI导购产品经理-杭州 | 2026-06-29 10:16:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100013280001&track_id=SSP1782837440202UXTmlUZvIM6573 |
+| 2026-07-01 | 新增 | 淘天集团 | 营销平台及市场部-营销导购产品经理（AI方向）-杭州 | 2026-06-29 10:15:44 | https://talent.taotian.com/off-campus/position-detail?positionId=100013020009&track_id=SSP1782837438056vEMnyzRfyY7698 |
+| 2026-07-01 | 新增 | 淘天集团 | 营销平台及市场部-营销导购产品经理（AI方向）-杭州 | 2026-06-29 10:15:44 | https://talent.taotian.com/off-campus/position-detail?positionId=100013020009&track_id=SSP1782837438714pZvkAiiPJP3913 |
+| 2026-07-01 | 新增 | 淘天集团 | 营销平台及市场部-营销导购产品经理（AI方向）-杭州 | 2026-06-29 10:15:44 | https://talent.taotian.com/off-campus/position-detail?positionId=100013020009&track_id=SSP1782837440202FGqpkiSILl3939 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-业务风控部 | 2026-06-29 10:01:49 | https://talent.taotian.com/off-campus/position-detail?positionId=100007800013&track_id=SSP1782837438057GvktvlKnYT2682 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-业务风控部 | 2026-06-29 10:01:49 | https://talent.taotian.com/off-campus/position-detail?positionId=100007800013&track_id=SSP1782837438714OSQrtedtUB4406 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-业务风控部 | 2026-06-29 10:01:49 | https://talent.taotian.com/off-campus/position-detail?positionId=100007800013&track_id=SSP1782837440031ImvCKBkyyW6067 |
+| 2026-07-01 | 新增 | 百度 | 文心助手策略产品经理（J101139） | 2026-06-29 | https://talent.baidu.com/jobs/detail/SOCIAL/c692bea7-fbd9-43ba-aa0e-5d7b2144966b |
+| 2026-07-01 | 新增 | 淘天集团 | 阿里妈妈-内容广告产品经理-北京/杭州 | 2026-06-27 21:39:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100021080003&track_id=SSP1782837440031kKUAsYZyGn2088 |
+| 2026-07-01 | 新增 | 淘天集团 | 阿里妈妈-AIGC产品经理-杭州/北京 | 2026-06-27 21:38:37 | https://talent.taotian.com/off-campus/position-detail?positionId=100021080002&track_id=SSP1782837439605gFUEvAVXQl7080 |
+| 2026-07-01 | 新增 | 淘天集团 | 阿里妈妈-AIGC产品经理-杭州/北京 | 2026-06-27 21:38:37 | https://talent.taotian.com/off-campus/position-detail?positionId=100021080002&track_id=SSP1782837440031eoMrfNUoYq6602 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI原生数据库产品经理-北京/杭州 | 2026-06-26 00:00:00 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014403005&track_id=SSP1782837424844NVjtgkutzr5630 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI原生数据库产品经理-北京/杭州 | 2026-06-26 00:00:00 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014403005&track_id=SSP1782837431144HzWRQFFTNZ8030 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI原生数据库产品经理-北京/杭州 | 2026-06-26 00:00:00 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014403005&track_id=SSP1782837437227HSxrfwNRtX8064 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-UC浏览器产品经理-会员产品-广州 | 2026-06-25 19:13:34 | https://talent.quark.cn/off-campus/position-detail?positionId=100020840003&track_id=SSP1782837441985OmOzPsRkFH3753 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-智能产品经理-商家服务 | 2026-06-24 14:14:27 | https://talent.taotian.com/off-campus/position-detail?positionId=100010040045&track_id=SSP1782837440031AAnPDEBDiX4650 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-产品经理-AI应用（杭州/北京） | 2026-06-24 11:42:20 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015523014&track_id=SSP1782837424844QJwBpLujrs5489 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-产品经理-AI应用（杭州/北京） | 2026-06-24 11:42:20 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015523014&track_id=SSP1782837431144tvDxTMEdVP5095 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-产品经理-AI应用（杭州/北京） | 2026-06-24 11:42:20 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015523014&track_id=SSP1782837437227dnMWIQWFcI7702 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-产品经理-AI解决方案（北京/杭州/深圳） | 2026-06-24 10:26:15 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463013&track_id=SSP1782837424844kUbBBdtRCG8547 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-产品经理-AI解决方案（北京/杭州/深圳） | 2026-06-24 10:26:15 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463013&track_id=SSP1782837431144NEsPYGvVot6236 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-产品经理-AI解决方案（北京/杭州/深圳） | 2026-06-24 10:26:15 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463013&track_id=SSP1782837437227zoEsLuydrv3401 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-拍立淘产品经理-杭州 | 2026-06-24 10:07:00 | https://talent.taotian.com/off-campus/position-detail?positionId=7000046108&track_id=SSP1782837440031IDjDBpTVVd9489 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-手机天猫搜索产品经理-杭州 | 2026-06-23 20:29:19 | https://talent.taotian.com/off-campus/position-detail?positionId=100013760008&track_id=SSP1782837440031BZCTZSMfyw7387 |
+| 2026-07-01 | 新增 | 淘天集团 | M&T事业部-淘工厂-agent产品经理 | 2026-06-23 11:44:59 | https://talent.taotian.com/off-campus/position-detail?positionId=100017780002&track_id=SSP1782837439243MsEMJRGfpT7073 |
+| 2026-07-01 | 新增 | 淘天集团 | M&T事业部-淘工厂-agent产品经理 | 2026-06-23 11:44:59 | https://talent.taotian.com/off-campus/position-detail?positionId=100017780002&track_id=SSP1782837440031UXQVFKgWPE9195 |
+| 2026-07-01 | 新增 | 通义 | Token Foundry-语音AI产品经理-通义百聆 | 2026-06-22 14:31:07 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100011240002&track_id=SSP1782837442475DZQoMNktQx4874 |
+| 2026-07-01 | 新增 | 通义 | Token Foundry-语音AI产品经理-通义百聆 | 2026-06-22 14:31:07 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100011240002&track_id=SSP1782837442647FmDyDqqLeG6468 |
+| 2026-07-01 | 新增 | 通义 | Token Foundry-语音AI产品经理-通义百聆 | 2026-06-22 14:31:07 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100011240002&track_id=SSP1782837443361JscSHbXRiY5934 |
+| 2026-07-01 | 新增 | 淘天集团 | 平台及用户产品事业部-产品经理-杭州 | 2026-06-22 11:07:54 | https://talent.taotian.com/off-campus/position-detail?positionId=100019420007&track_id=SSP1782837440031rKbavchxPC4741 |
+| 2026-07-01 | 新增 | 淘天集团 | 搜推智能产品事业部-搜索机制策略产品经理-杭州 | 2026-06-22 09:55:38 | https://talent.taotian.com/off-campus/position-detail?positionId=100006520002&track_id=SSP1782837440031KVWwXQqTdJ3802 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-千问/夸克-语音AI产品经理-杭州/北京 | 2026-06-18 20:00:35 | https://talent.quark.cn/off-campus/position-detail?positionId=100008180002&track_id=SSP1782837440657OtqZSgWEfO5965 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-千问/夸克-语音AI产品经理-杭州/北京 | 2026-06-18 20:00:35 | https://talent.quark.cn/off-campus/position-detail?positionId=100008180002&track_id=SSP1782837440942iCeqPAjOZL3349 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-千问/夸克-语音AI产品经理-杭州/北京 | 2026-06-18 20:00:35 | https://talent.quark.cn/off-campus/position-detail?positionId=100008180002&track_id=SSP1782837441985nfJwvfGGtU7259 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI智投产品经理（超级汇川）-北京 | 2026-06-18 14:35:02 | https://talent.quark.cn/off-campus/position-detail?positionId=100010280018&track_id=SSP1782837440657iUhAzLvRGJ6297 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI智投产品经理（超级汇川）-北京 | 2026-06-18 14:35:02 | https://talent.quark.cn/off-campus/position-detail?positionId=100010280018&track_id=SSP1782837440942XQYFCIanqf4091 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI智投产品经理（超级汇川）-北京 | 2026-06-18 14:35:02 | https://talent.quark.cn/off-campus/position-detail?positionId=100010280018&track_id=SSP1782837441985BBMLIKBREX9799 |
+| 2026-07-01 | 新增 | 淘天集团 | 阿里妈妈-商业化产品经理（无线小程序广告）-杭州/北京 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100017460003&track_id=SSP1782837440031TsDiCXSOny4547 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘天直播电商-频道产品经理-杭州 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100014100008&track_id=SSP1782837440031HkwNZxoqJe5659 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘天直播电商-AI电商产品经理-北京 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100015180001&track_id=SSP1782837437779lGDABKnITL6893 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘天直播电商-AI电商产品经理-北京 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100015180001&track_id=SSP1782837438479pqiOTiIooC8596 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘天直播电商-AI电商产品经理-北京 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100015180001&track_id=SSP1782837440031WgkNIVAjJo7079 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫国际-AI产品经理（营销&数据）-杭州 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100012000010&track_id=SSP1782837437779TFcYxRVzPP3020 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫国际-AI产品经理（营销&数据）-杭州 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100012000010&track_id=SSP1782837438479uocOCDKJPc8119 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫国际-AI产品经理（营销&数据）-杭州 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100012000010&track_id=SSP1782837440031Gcbgbnbsna8549 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫国际-AI产品经理(供给&交易)-杭州 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100012860002&track_id=SSP1782837438056VODPlIuJde9209 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫国际-AI产品经理(供给&交易)-杭州 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100012860002&track_id=SSP1782837438714yAfsuXEKJj5063 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫国际-AI产品经理(供给&交易)-杭州 | 2026-06-18 00:00:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100012860002&track_id=SSP1782837440202HbtZdhlUaC8612 |
+| 2026-07-01 | 新增 | 淘天集团 | 1688-AI商家经营产品经理-杭州 | 2026-06-17 20:02:46 | https://talent.taotian.com/off-campus/position-detail?positionId=100019560002&track_id=SSP1782837437779gMYCRjEIXj5742 |
+| 2026-07-01 | 新增 | 淘天集团 | 1688-AI商家经营产品经理-杭州 | 2026-06-17 20:02:46 | https://talent.taotian.com/off-campus/position-detail?positionId=100019560002&track_id=SSP1782837438479jchrLbZoEf4675 |
+| 2026-07-01 | 新增 | 淘天集团 | 1688-AI商家经营产品经理-杭州 | 2026-06-17 20:02:46 | https://talent.taotian.com/off-campus/position-detail?positionId=100019560002&track_id=SSP1782837440202DpAEhjVYpm8218 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI短漫剧产品经理-AIGC团队 | 2026-06-17 15:59:15 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015563009&track_id=SSP1782837426496VnVlHhKMec5052 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI短漫剧产品经理-AIGC团队 | 2026-06-17 15:59:15 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015563009&track_id=SSP1782837431927wHGaGZpWEg4483 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI短漫剧产品经理-AIGC团队 | 2026-06-17 15:59:15 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015563009&track_id=SSP1782837436468IMsarkrloL3582 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI短漫剧产品经理-AIGC团队 | 2026-06-17 15:59:15 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015563009&track_id=SSP1782837437227fjEDTfGUJK7937 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-图像视频 AIGC 产品经理（海外）-北京/杭州 | 2026-06-17 15:56:29 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463009&track_id=SSP1782837436468pqElNhKNpk1674 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-图像视频 AIGC 产品经理（海外）-北京/杭州 | 2026-06-17 15:56:29 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015463009&track_id=SSP1782837437227riWooDObHV9728 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-资深AIGC大模型产品经理-杭州 | 2026-06-16 18:11:06 | https://talent.taotian.com/off-campus/position-detail?positionId=100011640038&track_id=SSP1782837439424klSsUMPrAg4881 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-资深AIGC大模型产品经理-杭州 | 2026-06-16 18:11:06 | https://talent.taotian.com/off-campus/position-detail?positionId=100011640038&track_id=SSP1782837439605rZSscociIA2734 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-资深AIGC大模型产品经理-杭州 | 2026-06-16 18:11:06 | https://talent.taotian.com/off-campus/position-detail?positionId=100011640038&track_id=SSP1782837440031ijjmPpzYxl3201 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家AI数据产品经理-杭州 | 2026-06-16 16:48:21 | https://talent.taotian.com/off-campus/position-detail?positionId=100010480008&track_id=SSP1782837437779KitfojiCmg1608 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家AI数据产品经理-杭州 | 2026-06-16 16:48:21 | https://talent.taotian.com/off-campus/position-detail?positionId=100010480008&track_id=SSP1782837438479OYrOFsgWlp7727 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家AI数据产品经理-杭州 | 2026-06-16 16:48:21 | https://talent.taotian.com/off-campus/position-detail?positionId=100010480008&track_id=SSP1782837440031MsFOPoXaow9126 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI 产品经理 - 千问语音Agent-北京/杭州 | 2026-06-16 15:48:12 | https://talent.quark.cn/off-campus/position-detail?positionId=100010900011&track_id=SSP1782837440657EmiYHFdxdO7881 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI 产品经理 - 千问语音Agent-北京/杭州 | 2026-06-16 15:48:12 | https://talent.quark.cn/off-campus/position-detail?positionId=100010900011&track_id=SSP1782837440942nBgVZJdyTR1200 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI 产品经理 - 千问语音Agent-北京/杭州 | 2026-06-16 15:48:12 | https://talent.quark.cn/off-campus/position-detail?positionId=100010900011&track_id=SSP1782837441167lQNHXWUCAb1563 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI 产品经理 - 千问语音Agent-北京/杭州 | 2026-06-16 15:48:12 | https://talent.quark.cn/off-campus/position-detail?positionId=100010900011&track_id=SSP1782837441985MliKqfaaKM4375 |
+| 2026-07-01 | 新增 | 淘天集团 | 1688-资金产品经理-杭州 | 2026-06-15 19:21:12 | https://talent.taotian.com/off-campus/position-detail?positionId=100019260008&track_id=SSP1782837440031OOKpaDRoRa1890 |
+| 2026-07-01 | 新增 | 淘天集团 | 平台及用户产品事业部-AI to C产品经理-杭州 | 2026-06-15 18:58:16 | https://talent.taotian.com/off-campus/position-detail?positionId=100009460014&track_id=SSP1782837437779sAJwqRIyiw1622 |
+| 2026-07-01 | 新增 | 淘天集团 | 平台及用户产品事业部-AI to C产品经理-杭州 | 2026-06-15 18:58:16 | https://talent.taotian.com/off-campus/position-detail?positionId=100009460014&track_id=SSP1782837438479uuoNQXtJGA1319 |
+| 2026-07-01 | 新增 | 淘天集团 | 平台及用户产品事业部-AI to C产品经理-杭州 | 2026-06-15 18:58:16 | https://talent.taotian.com/off-campus/position-detail?positionId=100009460014&track_id=SSP1782837440031hoiOdLwPNK3498 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-平台物流 | 2026-06-15 15:48:01 | https://talent.taotian.com/off-campus/position-detail?positionId=100000980008&track_id=SSP1782837438057EeHqyrbdwl5358 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-平台物流 | 2026-06-15 15:48:01 | https://talent.taotian.com/off-campus/position-detail?positionId=100000980008&track_id=SSP1782837438714RNrmqxpCMJ4537 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-平台物流 | 2026-06-15 15:48:01 | https://talent.taotian.com/off-campus/position-detail?positionId=100000980008&track_id=SSP1782837440202vRoUXiaiPv1402 |
+| 2026-07-01 | 新增 | 淘天集团 | 1688-AI应用产品经理-产业智联 | 2026-06-15 15:00:44 | https://talent.taotian.com/off-campus/position-detail?positionId=100018180002&track_id=SSP1782837437779qYUcwwhqXJ4628 |
+| 2026-07-01 | 新增 | 淘天集团 | 1688-AI应用产品经理-产业智联 | 2026-06-15 15:00:44 | https://talent.taotian.com/off-campus/position-detail?positionId=100018180002&track_id=SSP1782837438479CXpxjBEvbZ5053 |
+| 2026-07-01 | 新增 | 淘天集团 | 1688-AI应用产品经理-产业智联 | 2026-06-15 15:00:44 | https://talent.taotian.com/off-campus/position-detail?positionId=100018180002&track_id=SSP1782837440201yUuQxmjTSh4918 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-广告产品经理(超级汇川)-北京 | 2026-06-15 14:55:56 | https://talent.quark.cn/off-campus/position-detail?positionId=100010320013&track_id=SSP1782837441985MmNcFdchye3092 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-汽车行业产品经理-杭州 | 2026-06-13 00:08:00 | https://talent.taotian.com/off-campus/position-detail?positionId=100019280002&track_id=SSP1782837440031VqcuFgaYsP5054 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家AI Agent 产品经理-杭州 | 2026-06-12 16:14:42 | https://talent.taotian.com/off-campus/position-detail?positionId=100017560001&track_id=SSP1782837437779UAxSbMXDFd7661 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家AI Agent 产品经理-杭州 | 2026-06-12 16:14:42 | https://talent.taotian.com/off-campus/position-detail?positionId=100017560001&track_id=SSP1782837438479PrdDHFdFsd3178 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家AI Agent 产品经理-杭州 | 2026-06-12 16:14:42 | https://talent.taotian.com/off-campus/position-detail?positionId=100017560001&track_id=SSP1782837439243cVmknhUHJI2207 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家AI Agent 产品经理-杭州 | 2026-06-12 16:14:42 | https://talent.taotian.com/off-campus/position-detail?positionId=100017560001&track_id=SSP1782837440202uxbWXiejKR8547 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-产品经理-供应链管理方向-杭州 | 2026-06-12 14:54:30 | https://careers.aliyun.com/off-campus/position-detail?positionId=100015503003&track_id=SSP1782837437227QnnJreGyWW2009 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-C端产品经理（U先试用）-杭州 | 2026-06-12 12:06:52 | https://talent.taotian.com/off-campus/position-detail?positionId=100011960002&track_id=SSP1782837440031oBDcnVVvtf7635 |
+| 2026-07-01 | 新增 | 淘天集团 | 搜推智能产品事业部-AI推荐策略产品经理-杭州 | 2026-06-12 11:07:01 | https://talent.taotian.com/off-campus/position-detail?positionId=7000044106&track_id=SSP1782837438244dytPSSyHAA3200 |
+| 2026-07-01 | 新增 | 淘天集团 | 搜推智能产品事业部-AI推荐策略产品经理-杭州 | 2026-06-12 11:07:01 | https://talent.taotian.com/off-campus/position-detail?positionId=7000044106&track_id=SSP1782837439046fJnpOmlXYt8292 |
+| 2026-07-01 | 新增 | 淘天集团 | 搜推智能产品事业部-AI推荐策略产品经理-杭州 | 2026-06-12 11:07:01 | https://talent.taotian.com/off-campus/position-detail?positionId=7000044106&track_id=SSP1782837440031ZRUeDBOVEp2263 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-端用户产品经理-端用户产品 | 2026-06-11 10:33:14 | https://talent.taotian.com/off-campus/position-detail?positionId=100014540004&track_id=SSP1782837440031IVVcXpLfUN1559 |
+| 2026-07-01 | 新增 | 淘天集团 | 平台及用户产品事业部-商品详情产品经理-AI/垂类方向 | 2026-06-11 10:30:28 | https://talent.taotian.com/off-campus/position-detail?positionId=7000043120&track_id=SSP1782837438244eEQTzqRBzB4178 |
+| 2026-07-01 | 新增 | 淘天集团 | 平台及用户产品事业部-商品详情产品经理-AI/垂类方向 | 2026-06-11 10:30:28 | https://talent.taotian.com/off-campus/position-detail?positionId=7000043120&track_id=SSP1782837439046cpochXzxzB3789 |
+| 2026-07-01 | 新增 | 淘天集团 | 平台及用户产品事业部-商品详情产品经理-AI/垂类方向 | 2026-06-11 10:30:28 | https://talent.taotian.com/off-campus/position-detail?positionId=7000043120&track_id=SSP1782837440201XCdoejDINX8861 |
+| 2026-07-01 | 新增 | 淘天集团 | M&T事业部-产业带运营-AI工作台产品经理 | 2026-06-11 09:40:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100018980001&track_id=SSP1782837437779QNDosJxihe9281 |
+| 2026-07-01 | 新增 | 淘天集团 | M&T事业部-产业带运营-AI工作台产品经理 | 2026-06-11 09:40:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100018980001&track_id=SSP1782837438479TNTdgHRCKm7557 |
+| 2026-07-01 | 新增 | 淘天集团 | M&T事业部-产业带运营-AI工作台产品经理 | 2026-06-11 09:40:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100018980001&track_id=SSP1782837440031hTijjZZtlk7383 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI Agent 产品经理-秒悟-杭州 | 2026-06-10 11:20:50 | https://careers.aliyun.com/off-campus/position-detail?positionId=100007603004&track_id=SSP1782837428421xuZDGvDgkS8267 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI Agent 产品经理-秒悟-杭州 | 2026-06-10 11:20:50 | https://careers.aliyun.com/off-campus/position-detail?positionId=100007603004&track_id=SSP1782837432636cbQhqTHElq5226 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI Agent 产品经理-秒悟-杭州 | 2026-06-10 11:20:50 | https://careers.aliyun.com/off-campus/position-detail?positionId=100007603004&track_id=SSP1782837434369EGXNZJUxXc3476 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI Agent 产品经理-秒悟-杭州 | 2026-06-10 11:20:50 | https://careers.aliyun.com/off-campus/position-detail?positionId=100007603004&track_id=SSP1782837437227mhFKznQFXP2819 |
+| 2026-07-01 | 新增 | 通义 | Token Foundry-多模态大模型产品经理-杭州 | 2026-06-09 15:16:01 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100013020010&track_id=SSP1782837442969MMkgDEBEQi4808 |
+| 2026-07-01 | 新增 | 通义 | Token Foundry-多模态大模型产品经理-杭州 | 2026-06-09 15:16:01 | https://careers-tongyi.alibaba.com/off-campus/position-detail?positionId=100013020010&track_id=SSP1782837443361iywGjurapJ2492 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-运营AI产品经理-杭州 | 2026-06-08 19:27:31 | https://talent.taotian.com/off-campus/position-detail?positionId=100017480001&track_id=SSP1782837437779cKAgKgGfJx2762 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-运营AI产品经理-杭州 | 2026-06-08 19:27:31 | https://talent.taotian.com/off-campus/position-detail?positionId=100017480001&track_id=SSP1782837438479rQNelBkTkD8234 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-运营AI产品经理-杭州 | 2026-06-08 19:27:31 | https://talent.taotian.com/off-campus/position-detail?positionId=100017480001&track_id=SSP1782837440201ZSJobRzokp2098 |
+| 2026-07-01 | 新增 | 淘天集团 | 聚划算&百亿补贴-AI产品经理-用户产品-杭州 | 2026-06-08 19:09:46 | https://talent.taotian.com/off-campus/position-detail?positionId=100018680019&track_id=SSP1782837437779cxXyGSQKXI4122 |
+| 2026-07-01 | 新增 | 淘天集团 | 聚划算&百亿补贴-AI产品经理-用户产品-杭州 | 2026-06-08 19:09:46 | https://talent.taotian.com/off-campus/position-detail?positionId=100018680019&track_id=SSP1782837438479FJwwnQDvBS8818 |
+| 2026-07-01 | 新增 | 淘天集团 | 聚划算&百亿补贴-AI产品经理-用户产品-杭州 | 2026-06-08 19:09:46 | https://talent.taotian.com/off-campus/position-detail?positionId=100018680019&track_id=SSP1782837440201jmyqkkUety7431 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-店铺AI导购产品经理-杭州 | 2026-06-08 16:36:11 | https://talent.taotian.com/off-campus/position-detail?positionId=100018700018&track_id=SSP1782837437779VpQvIDDqRM1126 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-店铺AI导购产品经理-杭州 | 2026-06-08 16:36:11 | https://talent.taotian.com/off-campus/position-detail?positionId=100018700018&track_id=SSP1782837438479ekmFsVYnrB8219 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-店铺AI导购产品经理-杭州 | 2026-06-08 16:36:11 | https://talent.taotian.com/off-campus/position-detail?positionId=100018700018&track_id=SSP1782837440031hBdPyYJNiH4345 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-夸克搜索-内容策略产品经理-北京/杭州 | 2026-06-08 09:01:41 | https://talent.quark.cn/off-campus/position-detail?positionId=100008920001&track_id=SSP1782837441985EDegsVspzu8545 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI 产品经理/专家-AI视频生成-杭州 | 2026-06-04 21:11:31 | https://careers.aliyun.com/off-campus/position-detail?positionId=100012503001&track_id=SSP1782837428421WEcpFyvltv8487 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI 产品经理/专家-AI视频生成-杭州 | 2026-06-04 21:11:31 | https://careers.aliyun.com/off-campus/position-detail?positionId=100012503001&track_id=SSP1782837432636HvtWuGuHKJ1669 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI 产品经理/专家-AI视频生成-杭州 | 2026-06-04 21:11:31 | https://careers.aliyun.com/off-campus/position-detail?positionId=100012503001&track_id=SSP1782837437227DiMzxDXDbC2700 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-客服资源方向 | 2026-06-03 21:58:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100013180006&track_id=SSP1782837438056zRZqrySyZX5845 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-客服资源方向 | 2026-06-03 21:58:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100013180006&track_id=SSP1782837438714QlImkopGkm3765 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-客服资源方向 | 2026-06-03 21:58:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100013180006&track_id=SSP1782837440031VNGwGsDgjC6226 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-运营平台产品经理-杭州 | 2026-06-03 18:18:40 | https://talent.taotian.com/off-campus/position-detail?positionId=100011700028&track_id=SSP1782837440031dSCgAiJpKi4468 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI 商业化产品经理（全域营销业务）-北京 | 2026-06-03 14:05:28 | https://talent.quark.cn/off-campus/position-detail?positionId=100015480001&track_id=SSP1782837440657wOOwwGpjfW4778 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI 商业化产品经理（全域营销业务）-北京 | 2026-06-03 14:05:28 | https://talent.quark.cn/off-campus/position-detail?positionId=100015480001&track_id=SSP1782837440942bEoESHPRkS6167 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI 商业化产品经理（全域营销业务）-北京 | 2026-06-03 14:05:28 | https://talent.quark.cn/off-campus/position-detail?positionId=100015480001&track_id=SSP1782837441985NintjwoKwZ5649 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-零售产品经理（优品）-杭州 | 2026-06-02 16:55:34 | https://talent.taotian.com/off-campus/position-detail?positionId=100018420006&track_id=SSP1782837440202iXkueHtyjB6789 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-渠道产品经理（优品）-杭州 | 2026-06-02 16:54:11 | https://talent.taotian.com/off-campus/position-detail?positionId=100018320006&track_id=SSP1782837440031XDaOzcaTpL8171 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-夸克网盘生态（分享&快传方向）产品经理-北京 | 2026-06-01 11:15:02 | https://talent.quark.cn/off-campus/position-detail?positionId=100007800007&track_id=SSP1782837441985afuycLbuYM9336 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘天集团-AI产品经理-ideaLAB | 2026-06-01 10:37:48 | https://talent.taotian.com/off-campus/position-detail?positionId=100018200002&track_id=SSP1782837438057EQwMzsfkVh5809 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘天集团-AI产品经理-ideaLAB | 2026-06-01 10:37:48 | https://talent.taotian.com/off-campus/position-detail?positionId=100018200002&track_id=SSP1782837438714ybJqcNavkD6339 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘天集团-AI产品经理-ideaLAB | 2026-06-01 10:37:48 | https://talent.taotian.com/off-campus/position-detail?positionId=100018200002&track_id=SSP1782837440031ZsUQymUIjK7647 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-内控治理 | 2026-05-28 14:11:20 | https://talent.taotian.com/off-campus/position-detail?positionId=100013700004&track_id=SSP1782837438057ntijGkoHSv7924 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-内控治理 | 2026-05-28 14:11:20 | https://talent.taotian.com/off-campus/position-detail?positionId=100013700004&track_id=SSP1782837438714FxFLmAcOmx8487 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-内控治理 | 2026-05-28 14:11:20 | https://talent.taotian.com/off-campus/position-detail?positionId=100013700004&track_id=SSP1782837440201vikatPvWpY4615 |
+| 2026-07-01 | 新增 | 淘天集团 | 营销平台及市场部-营销平台产品经理（AI方向）-杭州 | 2026-05-28 12:47:09 | https://talent.taotian.com/off-campus/position-detail?positionId=100017580001&track_id=SSP1782837437779JgyTlcvTZr1235 |
+| 2026-07-01 | 新增 | 淘天集团 | 营销平台及市场部-营销平台产品经理（AI方向）-杭州 | 2026-05-28 12:47:09 | https://talent.taotian.com/off-campus/position-detail?positionId=100017580001&track_id=SSP1782837438479hHkKpwWzig7357 |
+| 2026-07-01 | 新增 | 淘天集团 | 营销平台及市场部-营销平台产品经理（AI方向）-杭州 | 2026-05-28 12:47:09 | https://talent.taotian.com/off-campus/position-detail?positionId=100017580001&track_id=SSP1782837440202brtbmLGcMn9567 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家平台AI内容产品经理-杭州 | 2026-05-27 19:50:46 | https://talent.taotian.com/off-campus/position-detail?positionId=100017500001&track_id=SSP1782837437779JtWUqtfbEK3142 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家平台AI内容产品经理-杭州 | 2026-05-27 19:50:46 | https://talent.taotian.com/off-campus/position-detail?positionId=100017500001&track_id=SSP1782837438479owqtPpSgCm5068 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家平台AI内容产品经理-杭州 | 2026-05-27 19:50:46 | https://talent.taotian.com/off-campus/position-detail?positionId=100017500001&track_id=SSP1782837440031gWiBKrLcyF5390 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-UC客户端产品经理-用户运营方向 | 2026-05-27 16:02:38 | https://talent.quark.cn/off-campus/position-detail?positionId=100017180002&track_id=SSP1782837441985zcCCRfWgNM6538 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI Agent产品经理-杭州/北京 | 2026-05-27 15:57:57 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014423005&track_id=SSP1782837428421xjeNuawiPO7346 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI Agent产品经理-杭州/北京 | 2026-05-27 15:57:57 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014423005&track_id=SSP1782837432636uDJUZSmHld1081 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI Agent产品经理-杭州/北京 | 2026-05-27 15:57:57 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014423005&track_id=SSP1782837434369QWeWrFUnNd4044 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI Agent产品经理-杭州/北京 | 2026-05-27 15:57:57 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014423005&track_id=SSP1782837437227QdfAkDgiYv3406 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-阿里资产 | 2026-05-26 17:59:52 | https://talent.taotian.com/off-campus/position-detail?positionId=100013680001&track_id=SSP1782837438056cCNjZdyhVc5091 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-阿里资产 | 2026-05-26 17:59:52 | https://talent.taotian.com/off-campus/position-detail?positionId=100013680001&track_id=SSP1782837438714EuwyrQDelJ5187 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-阿里资产 | 2026-05-26 17:59:52 | https://talent.taotian.com/off-campus/position-detail?positionId=100013680001&track_id=SSP1782837440202KLTlZcMUKZ9766 |
+| 2026-07-01 | 新增 | 淘天集团 | 业务技术-产品经理-交易平台产品（AI） | 2026-05-26 17:43:50 | https://talent.taotian.com/off-campus/position-detail?positionId=100009920051&track_id=SSP1782837437779gqCRUzUmcK7507 |
+| 2026-07-01 | 新增 | 淘天集团 | 业务技术-产品经理-交易平台产品（AI） | 2026-05-26 17:43:50 | https://talent.taotian.com/off-campus/position-detail?positionId=100009920051&track_id=SSP1782837438479qUdLoPUPHz9179 |
+| 2026-07-01 | 新增 | 淘天集团 | 业务技术-产品经理-交易平台产品（AI） | 2026-05-26 17:43:50 | https://talent.taotian.com/off-campus/position-detail?positionId=100009920051&track_id=SSP1782837440202eYeLjHhLiC1964 |
+| 2026-07-01 | 新增 | 阿里云 | 诚云科技-资深产品经理-国际 | 2026-05-26 16:04:50 | https://careers.aliyun.com/off-campus/position-detail?positionId=100014323002&track_id=SSP1782837437227oLouxaWCml6317 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI 搜索评测 · 产品经理-杭州 | 2026-05-26 14:40:12 | https://talent.taotian.com/off-campus/position-detail?positionId=100017080003&track_id=SSP1782837438243ESgNQgewbZ4389 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI 搜索评测 · 产品经理-杭州 | 2026-05-26 14:40:12 | https://talent.taotian.com/off-campus/position-detail?positionId=100017080003&track_id=SSP1782837439046bKUOLcXQKU5778 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI 搜索评测 · 产品经理-杭州 | 2026-05-26 14:40:12 | https://talent.taotian.com/off-campus/position-detail?positionId=100017080003&track_id=SSP1782837440202xxQMzCpSfh6406 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-金融AI产品经理-杭州 | 2026-05-26 14:38:43 | https://careers.aliyun.com/off-campus/position-detail?positionId=100013763007&track_id=SSP1782837430279CRoCUyOCXs3253 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-金融AI产品经理-杭州 | 2026-05-26 14:38:43 | https://careers.aliyun.com/off-campus/position-detail?positionId=100013763007&track_id=SSP1782837433300wUYexgwXvK5382 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-金融AI产品经理-杭州 | 2026-05-26 14:38:43 | https://careers.aliyun.com/off-campus/position-detail?positionId=100013763007&track_id=SSP1782837437227PjLitWvKoX4676 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-千问 Agent产品经理-北京/杭州 | 2026-05-26 10:57:37 | https://talent.quark.cn/off-campus/position-detail?positionId=100010200013&track_id=SSP1782837441167YwDOctCwSB3951 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-千问 Agent产品经理-北京/杭州 | 2026-05-26 10:57:37 | https://talent.quark.cn/off-campus/position-detail?positionId=100010200013&track_id=SSP1782837441985prTqeZqBzD1157 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI标注/评测产品经理-杭州 | 2026-05-25 09:52:20 | https://talent.taotian.com/off-campus/position-detail?positionId=100012060008&track_id=SSP1782837438056LxwHjuArlj2236 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI标注/评测产品经理-杭州 | 2026-05-25 09:52:20 | https://talent.taotian.com/off-campus/position-detail?positionId=100012060008&track_id=SSP1782837438714ChSBmDJrLw6493 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI标注/评测产品经理-杭州 | 2026-05-25 09:52:20 | https://talent.taotian.com/off-campus/position-detail?positionId=100012060008&track_id=SSP1782837440201jOMfpoPRyG7647 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-搜索AI产品经理-杭州 | 2026-05-22 11:29:50 | https://talent.taotian.com/off-campus/position-detail?positionId=7000046614&track_id=SSP1782837437779AtZaKPDIEe8414 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-搜索AI产品经理-杭州 | 2026-05-22 11:29:50 | https://talent.taotian.com/off-campus/position-detail?positionId=7000046614&track_id=SSP1782837438479LmeTOIUVcg7971 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-搜索AI产品经理-杭州 | 2026-05-22 11:29:50 | https://talent.taotian.com/off-campus/position-detail?positionId=7000046614&track_id=SSP1782837440031aiDChgtJTR4692 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-千问-AI工具产品经理-北京/广州 | 2026-05-22 10:57:06 | https://talent.quark.cn/off-campus/position-detail?positionId=100011400011&track_id=SSP1782837440657YfTMfkIVLR6258 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-千问-AI工具产品经理-北京/广州 | 2026-05-22 10:57:06 | https://talent.quark.cn/off-campus/position-detail?positionId=100011400011&track_id=SSP1782837440942TSGrccQdNO6262 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-千问-AI工具产品经理-北京/广州 | 2026-05-22 10:57:06 | https://talent.quark.cn/off-campus/position-detail?positionId=100011400011&track_id=SSP1782837441985xUQBValvFW9887 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-千问C端产品经理-北京/杭州 | 2026-05-20 13:51:42 | https://talent.quark.cn/off-campus/position-detail?positionId=100010200012&track_id=SSP1782837441985bwsPHjrgXw5796 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI产品经理-杭州 | 2026-05-20 09:55:09 | https://talent.taotian.com/off-campus/position-detail?positionId=100010080005&track_id=SSP1782837437779ZAyDSwEYkm8414 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI产品经理-杭州 | 2026-05-20 09:55:09 | https://talent.taotian.com/off-campus/position-detail?positionId=100010080005&track_id=SSP1782837438479rxzLkbjQfr8114 |
+| 2026-07-01 | 新增 | 淘天集团 | 智能算法产品事业部-AI产品经理-杭州 | 2026-05-20 09:55:09 | https://talent.taotian.com/off-campus/position-detail?positionId=100010080005&track_id=SSP1782837440031gjVotaCqqn8668 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI产品经理-杭州 | 2026-05-19 10:35:13 | https://talent.quark.cn/off-campus/position-detail?positionId=7000025002&track_id=SSP1782837440657aNmGXbaUuM8785 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI产品经理-杭州 | 2026-05-19 10:35:13 | https://talent.quark.cn/off-campus/position-detail?positionId=7000025002&track_id=SSP1782837440942WfmCqDGFoN8020 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-AI产品经理-杭州 | 2026-05-19 10:35:13 | https://talent.quark.cn/off-campus/position-detail?positionId=7000025002&track_id=SSP1782837441985AQPOjuOrwC5307 |
+| 2026-07-01 | 新增 | 淘天集团 | 商家营销产品-高级产品经理-营销产品 | 2026-05-19 10:26:01 | https://talent.taotian.com/off-campus/position-detail?positionId=100012980014&track_id=SSP1782837440031sdErXjsIiD1291 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家AI产品经理-杭州 | 2026-05-19 10:11:37 | https://talent.taotian.com/off-campus/position-detail?positionId=100013260018&track_id=SSP1782837437779MzliGvXCDZ3924 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家AI产品经理-杭州 | 2026-05-19 10:11:37 | https://talent.taotian.com/off-campus/position-detail?positionId=100013260018&track_id=SSP1782837438479lzAXetpnYS7951 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-商家AI产品经理-杭州 | 2026-05-19 10:11:37 | https://talent.taotian.com/off-campus/position-detail?positionId=100013260018&track_id=SSP1782837440202zGoQtgKlax8336 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-千问C端主对话产品经理-北京/杭州 | 2026-05-18 16:48:10 | https://talent.quark.cn/off-campus/position-detail?positionId=100008760022&track_id=SSP1782837441985pHCXHQRbcL8045 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI解决方案产品经理（Agent /AIGC/CV/多模态模型/LLM方向）-杭州 | 2026-05-18 11:03:43 | https://careers.aliyun.com/off-campus/position-detail?positionId=100012883001&track_id=SSP1782837430279RfmIMSjglz5575 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI解决方案产品经理（Agent /AIGC/CV/多模态模型/LLM方向）-杭州 | 2026-05-18 11:03:43 | https://careers.aliyun.com/off-campus/position-detail?positionId=100012883001&track_id=SSP1782837433300NmwkJWverj1294 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI解决方案产品经理（Agent /AIGC/CV/多模态模型/LLM方向）-杭州 | 2026-05-18 11:03:43 | https://careers.aliyun.com/off-campus/position-detail?positionId=100012883001&track_id=SSP1782837434369sZhSjuZJNi4646 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI解决方案产品经理（Agent /AIGC/CV/多模态模型/LLM方向）-杭州 | 2026-05-18 11:03:43 | https://careers.aliyun.com/off-campus/position-detail?positionId=100012883001&track_id=SSP1782837436468iHEIUJhEPj4817 |
+| 2026-07-01 | 新增 | 阿里云 | 阿里云智能-AI解决方案产品经理（Agent /AIGC/CV/多模态模型/LLM方向）-杭州 | 2026-05-18 11:03:43 | https://careers.aliyun.com/off-campus/position-detail?positionId=100012883001&track_id=SSP1782837437227RQmdQrTboH4361 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI原生应用产品经理-杭州 | 2026-05-18 10:55:03 | https://careers.aliyun.com/off-campus/position-detail?positionId=100011383005&track_id=SSP1782837430279HNESmlKiPE2100 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI原生应用产品经理-杭州 | 2026-05-18 10:55:03 | https://careers.aliyun.com/off-campus/position-detail?positionId=100011383005&track_id=SSP1782837433300JhvCyYfdUi5098 |
+| 2026-07-01 | 新增 | 阿里云 | ATH事业群-AI原生应用产品经理-杭州 | 2026-05-18 10:55:03 | https://careers.aliyun.com/off-campus/position-detail?positionId=100011383005&track_id=SSP1782837437227zxHCeZqELe1696 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘天营销平台-商业化产品经理（AI）-杭州 | 2026-05-12 12:00:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100014380006&track_id=SSP1782837438057UUrXPkdLUl2684 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘天营销平台-商业化产品经理（AI）-杭州 | 2026-05-12 12:00:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100014380006&track_id=SSP1782837438714nAsBwmSVET4779 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘天营销平台-商业化产品经理（AI）-杭州 | 2026-05-12 12:00:43 | https://talent.taotian.com/off-campus/position-detail?positionId=100014380006&track_id=SSP1782837440201JRbRsMLwbx3360 |
+| 2026-07-01 | 新增 | 淘天集团 | 营销平台及市场部-AI产品经理-杭州 | 2026-05-08 18:51:06 | https://talent.taotian.com/off-campus/position-detail?positionId=100014060010&track_id=SSP1782837438056QHqdcqaUEY5110 |
+| 2026-07-01 | 新增 | 淘天集团 | 营销平台及市场部-AI产品经理-杭州 | 2026-05-08 18:51:06 | https://talent.taotian.com/off-campus/position-detail?positionId=100014060010&track_id=SSP1782837438714preXmLscDa7003 |
+| 2026-07-01 | 新增 | 淘天集团 | 营销平台及市场部-AI产品经理-杭州 | 2026-05-08 18:51:06 | https://talent.taotian.com/off-campus/position-detail?positionId=100014060010&track_id=SSP1782837440031OZWFOQtwih3032 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-大模型应用产品经理-软硬件结合方向-杭州/北京 | 2026-05-08 12:47:19 | https://talent.quark.cn/off-campus/position-detail?positionId=100010920020&track_id=SSP1782837441407BDAipYMilY1166 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-大模型应用产品经理-软硬件结合方向-杭州/北京 | 2026-05-08 12:47:19 | https://talent.quark.cn/off-campus/position-detail?positionId=100010920020&track_id=SSP1782837441985hVDFbeWxkB3931 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-场景金融 | 2026-04-27 11:43:28 | https://talent.taotian.com/off-campus/position-detail?positionId=100013600005&track_id=SSP1782837438056eiVmzSSLAn8585 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-场景金融 | 2026-04-27 11:43:28 | https://talent.taotian.com/off-campus/position-detail?positionId=100013600005&track_id=SSP1782837438714btMTzEkewA2400 |
+| 2026-07-01 | 新增 | 淘天集团 | 淘宝平台事业部-AI产品经理-场景金融 | 2026-04-27 11:43:28 | https://talent.taotian.com/off-campus/position-detail?positionId=100013600005&track_id=SSP1782837440202EOgMbFGvot8912 |
+| 2026-07-01 | 新增 | 淘天集团 | 天猫事业部-产品经理-供给与导购方向-运动户外行业 | 2026-04-22 13:50:14 | https://talent.taotian.com/off-campus/position-detail?positionId=100001000003&track_id=SSP1782837440031BmEHNXPcDp8759 |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-全屋智能C端产品经理-杭州 | 2026-04-22 10:47:39 | https://talent.quark.cn/off-campus/position-detail?positionId=7000046515&track_id=SSP1782837441985oXZIImGJdC9935 |
+| 2026-07-01 | 新增 | 百度 | DataBuilder 产品经理（J95916） | 2026-03-25 | https://talent.baidu.com/jobs/detail/SOCIAL/4cf88973-571c-4dd8-8e17-229eb1bbf7e7 |
+| 2026-07-01 | 下架 |  | 千问事业部-夸克主端产品经理-广州、北京 | 2025年12月15日 | https://talent.quark.cn/off-campus/position-detail?positionId=7000003907 |
+| 2026-07-01 | 新增 | 百度 | DataBuilder 产品经理（J95916） | 2025-12-22 | https://talent.baidu.com/jobs/detail/SOCIAL/80e86000-3c46-422d-b864-28e8d2fa17cb |
+| 2026-07-01 | 新增 | 千问事业部 | 千问事业部-夸克主端产品经理-广州、北京 | 2025-12-15 19:00:57 | https://talent.quark.cn/off-campus/position-detail?positionId=7000003907&track_id=SSP1782837441985ItTlutNTzc5281 |

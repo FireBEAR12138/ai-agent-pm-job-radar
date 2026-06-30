@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+- 刷新 2026-07-01 AI / Agent 产品经理岗位数据、README 表格和页面截图；岗位总数更新为 1168，并记录本次新增/下架明细。
 - AI / Agent 产品经理岗位雷达改为通过本机 Codex Skill 由 Agent 主动抓取和更新数据，不再依赖仓库内固定 Python 抓取脚本或 macOS LaunchAgent 定时任务。
 - README 增加静态 HTML 看板和岗位列表截图，便于 GitHub 项目页直接展示页面效果。
 - AI / Agent 产品经理岗位雷达 Skill 内置各来源抓取技巧与重试策略；单个来源失败时 Agent 会先自主重试一次，重试仍失败才保留旧数据继续执行。
