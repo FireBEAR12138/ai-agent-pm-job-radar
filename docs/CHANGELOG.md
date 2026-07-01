@@ -32,6 +32,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - 优化腾讯招聘抓取方式，先用列表过滤候选岗位，再对候选岗位短超时补抓详情，确保可用时合并 `Requirement` 岗位要求。
 - 修正百度招聘抓取请求参数，使用表单编码、官网 Referer 和 `pageSize=10` 分页，避免 `illegal-visit` 或 `Illegal argument : pageSize`。
 
+### Fixed
+- 修复静态 HTML 看板 `jobData` 字段结构与前端脚本不匹配导致岗位列表无法渲染的问题。
+
 ## [3.6.0] - 2026-03-14
 
 ### Added
