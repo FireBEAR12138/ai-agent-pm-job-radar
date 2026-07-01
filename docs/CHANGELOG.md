@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Added
+- README 当前已支持公司表格增加“本次更新”列，展示每家公司本轮新增/下架数量，并补充近 7 日岗位变更日期口径说明。
 - 修正理想、字节跳动和小米招聘抓取策略：理想改用 `api-web` 与 `data.items`，字节/小米通过真实页面分页控件生成 `_signature` 后完整分页抓取。
 - AI / Agent 产品经理岗位雷达 Skill 增加失败源保护规则：某公司抓取重试后仍失败时，后续 GitHub 推送不得改动该公司的 CSV/Markdown 输出。
 - 刷新 2026-07-01 AI / Agent 产品经理岗位数据、README 表格和页面截图；岗位总数更新为 1168，并记录本次新增/下架明细。
