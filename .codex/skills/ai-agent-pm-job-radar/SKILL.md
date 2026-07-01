@@ -70,7 +70,7 @@ Accept: application/json,text/plain,*/*
 - Query params: `keyword`, `pageIndex`, `pageSize=50`, `language=zh-cn`, `timestamp`
 - Detail API: `https://careers.tencent.com/tencentcareer/api/post/ByPostId?postId=...&language=zh-cn`
 - Include both `Responsibility` and `Requirement` in JD.
-- Detail URL: `https://careers.tencent.com/jobdesc.html?postId={PostId}`
+- Detail URL: `https://careers.tencent.com/jobdesc.html?postId={PostId}&language=zh-cn`
 - Reliable refresh pattern:
   1. Search list pages for `AI`, `Agent`, `大模型`, `AIGC`, `智能体`, `人工智能`, and `产品经理`.
   2. Use list fields first to reduce detail calls; only call `ByPostId` for candidate rows whose title contains `产品经理` and whose title/list responsibility already hits the AI/Agent keyword set.
@@ -200,7 +200,9 @@ Reliable refresh pattern:
 7. For 小米, full pagination of `AI` is currently enough to reproduce the known AI/Agent PM set; add other keywords only if the filtered count drops below the existing CSV.
 8. Detail URL formats:
    - 字节: `https://jobs.bytedance.com/experienced/position/{id}/detail`
-   - 小米: `https://xiaomi.jobs.f.mioffice.cn/index/position/{id}`
+   - 小米: `https://xiaomi.jobs.f.mioffice.cn/index/position/{id}/detail`
+
+When validating Xiaomi detail URLs with direct HTTP requests, use full browser-like HTML headers including `Accept: text/html...` and `Accept-Language`; minimal request headers can be misreported as `404` even when the URL opens in a normal browser.
 
 If blocked after retry or pagination is incomplete, keep existing CSV and report the reason.
 

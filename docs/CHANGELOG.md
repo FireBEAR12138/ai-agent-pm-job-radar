@@ -34,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - 修正百度招聘抓取请求参数，使用表单编码、官网 Referer 和 `pageSize=10` 分页，避免 `illegal-visit` 或 `Illegal argument : pageSize`。
 
 ### Fixed
+- 修复 AI / Agent 产品经理岗位雷达中小米和腾讯岗位官网详情链接格式：小米使用 `/detail` 详情路由，腾讯使用 `https` 并固定 `language=zh-cn`。
 - 修复静态 HTML 看板 `jobData` 字段结构与前端脚本不匹配导致岗位列表无法渲染的问题。
 
 ## [3.6.0] - 2026-03-14

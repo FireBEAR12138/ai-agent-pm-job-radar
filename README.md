@@ -45,9 +45,9 @@
 
 | 日期 | 公司 | 岗位名 | URL |
 |---|---|---|---|
-| 2026-07-01 | 腾讯 | 产品经理（人-Agent 协作编辑器方向） | https://careers.tencent.com/jobdesc.html?postId=2061646301208162304 |
-| 2026-07-01 | 腾讯 | ima-AI Agent 策略产品经理(深圳/北京) | https://careers.tencent.com/jobdesc.html?postId=1998225333643530240 |
-| 2026-07-01 | 腾讯 | 腾讯会议-AI产品经理-AI应用体验方向 | https://careers.tencent.com/jobdesc.html?postId=2045074510201389056 |
+| 2026-07-01 | 腾讯 | 产品经理（人-Agent 协作编辑器方向） | https://careers.tencent.com/jobdesc.html?postId=2061646301208162304&language=zh-cn |
+| 2026-07-01 | 腾讯 | ima-AI Agent 策略产品经理(深圳/北京) | https://careers.tencent.com/jobdesc.html?postId=1998225333643530240&language=zh-cn |
+| 2026-07-01 | 腾讯 | 腾讯会议-AI产品经理-AI应用体验方向 | https://careers.tencent.com/jobdesc.html?postId=2045074510201389056&language=zh-cn |
 | 2026-07-01 | 字节跳动 | 账号产品经理-AI创新业务 | https://jobs.bytedance.com/experienced/position/7657457002419194165/detail |
 | 2026-07-01 | 字节跳动 | 网管平台运维产品经理-基础设施 | https://jobs.bytedance.com/experienced/position/7657441316938680581/detail |
 | 2026-07-01 | 淘天集团 | 营销平台及市场部-中后台AI产品经理-杭州 | https://talent.taotian.com/off-campus/position-detail?positionId=100013640012 |
@@ -60,7 +60,7 @@
 | 2026-07-01 | 字节跳动 | AI策略产品经理（豆包办公）-飞书 | https://jobs.bytedance.com/experienced/position/7657104355999140101/detail |
 | 2026-07-01 | 蚂蚁集团 | 蚂蚁数字科技-数字科技线-客服助理智能体产品经理 | https://talent.antgroup.com/off-campus-position/25121107972489 |
 | 2026-07-01 | 字节跳动 | 策略安全产品经理-TikTok安全产品 | https://jobs.bytedance.com/experienced/position/7657052865140164917/detail |
-| 2026-07-01 | 小米 | 硬件产品经理 | https://xiaomi.jobs.f.mioffice.cn/index/position/7656647737086232838 |
+| 2026-07-01 | 小米 | 硬件产品经理 | https://xiaomi.jobs.f.mioffice.cn/index/position/7656647737086232838/detail |
 | 2026-07-01 | 字节跳动 | AI产品经理（评测方向）-TikTok | https://jobs.bytedance.com/experienced/position/7656316786938136885/detail |
 | 2026-07-01 | 字节跳动 | OS软件产品经理-AI创新业务 | https://jobs.bytedance.com/experienced/position/7655638973901818117/detail |
 | 2026-07-01 | 字节跳动 | AI Agent产品经理-剪映CapCut | https://jobs.bytedance.com/experienced/position/7655610311870351621/detail |
