@@ -24,6 +24,7 @@ During a routine refresh, update data and the `jobData` JSON payload only. Do no
 1. Work from the repository root containing `ai_agent_pm_jobs.html`.
 2. Read existing CSVs first so each source can fail open after retry.
 3. For every source, fetch live data. If a source fails, retry that source once after a short delay. Only after the retry fails, keep the existing CSV under `data/` for that source and record the failure.
+   - If a source fails after retry, do not modify that company's CSV/Markdown outputs in the eventual GitHub push. A failed source must remain byte-for-byte as it was before that source's refresh attempt unless the user explicitly asks to overwrite it.
 4. Normalize rows to these logical fields: company/source, title, matched keywords, location, published time, official URL, JD.
    - If the official site does not disclose a publish time, use the first successful crawl time as the row's recorded time.
    - For existing no-publish-time jobs, preserve their previous recorded time on later refreshes; do not overwrite it every run.
@@ -88,11 +89,12 @@ Accept: application/json,text/plain,*/*
 
 ### 理想
 
-- List API: `https://www.lixiang.com/osd-hr-recruitment-website/v1/recruit/social/job-page`
+- List API: `https://api-web.lixiang.com/osd-hr-recruitment-website/v1/recruit/social/job-page`
 - Query params: `page`, `page_size=10`, `search`.
-- Detail API: `https://www.lixiang.com/osd-hr-recruitment-website/v1/recruit/job/detail?job_id=...`
+- Detail API: `https://api-web.lixiang.com/osd-hr-recruitment-website/v1/recruit/job/detail?job_id=...`
 - Detail URL: `https://www.lixiang.com/employ/detail/{job_id}.html`
 - JD fields: `description` and `requirements`.
+- The list response uses `data.items` in the current portal. Treat `data.list` as only a fallback.
 - The current list/detail API may not provide publish time. For each new official job with no publish time, set `发布时间` to the current successful crawl timestamp as its recorded/entry time. If the job already exists in `data/lixiang_ai_agent_pm_jobs.csv`, preserve the existing `发布时间`.
 
 ### 阿里云 / 淘天集团 / 千问事业部 / 通义
@@ -151,7 +153,7 @@ Empty results are valid for these sources; write a header-only CSV and show coun
 {"key":"ai","regions":"","categories":"97","subCategories":"97,98,99,100,101,102,403,404,405,406","bgCode":"","socialQrCode":"","pageIndex":1,"pageSize":10,"channel":"group_official_site","language":"zh"}
 ```
 
-- The search response already includes `description`, `requirement`, `workLocations`, `publishTime`, and `id`; merge `description` and `requirement` into JD.
+- The search response may return the list directly under `content`, not `data.list`; inspect both. The rows already include `description`, `requirement`, `workLocations`, `publishTime`, and `id`; merge `description` and `requirement` into JD.
 - Detail URL format: `https://talent.antgroup.com/off-campus-position/{id}`.
 - Do not treat a non-browser `405` as empty results; fall back to browser-captured requests first.
 
@@ -183,7 +185,24 @@ Use the latest known public APIs if still accessible, but expect some to block o
 - 字节 known endpoint: `https://jobs.bytedance.com/api/v1/search/job/posts`
 - 小米 known endpoint: `https://xiaomi.jobs.f.mioffice.cn/api/v1/search/job/posts`
 
-If blocked after retry, keep existing CSV and report the reason.
+The list endpoints require frontend-generated `_signature` query params. Directly changing `offset` with an old signature returns HTML instead of JSON.
+
+Reliable refresh pattern:
+
+1. Use a real browser session.
+2. Open the search page:
+   - 字节: `https://jobs.bytedance.com/experienced/position?keywords=AI`
+   - 小米: `https://xiaomi.jobs.f.mioffice.cn/index?keywords=AI`
+3. Listen for `GET /api/v1/search/job/posts` JSON responses and collect `data.job_post_list`.
+4. Scroll the main `section.atsx-layout` to the bottom so the pagination is visible.
+5. Click `.atsx-pagination-item` page numbers or `.atsx-pagination-next`; the frontend will generate a valid `_signature` for each offset.
+6. For 字节, repeat the full pagination for `AI`, `Agent`, `大模型`, `AIGC`, `智能体`, and `人工智能`, then merge by `id`.
+7. For 小米, full pagination of `AI` is currently enough to reproduce the known AI/Agent PM set; add other keywords only if the filtered count drops below the existing CSV.
+8. Detail URL formats:
+   - 字节: `https://jobs.bytedance.com/experienced/position/{id}/detail`
+   - 小米: `https://xiaomi.jobs.f.mioffice.cn/index/position/{id}`
+
+If blocked after retry or pagination is incomplete, keep existing CSV and report the reason.
 
 ## HTML Payload Contract
 
