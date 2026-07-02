@@ -30,7 +30,8 @@ During a routine refresh, update data and the `jobData` JSON payload only. Do no
    - For existing no-publish-time jobs, preserve their previous recorded time on later refreshes; do not overwrite it every run.
 5. Filter to product-manager roles:
    - title must include `产品经理`
-   - title or JD must match at least one of: `AI`, `人工智能`, `大模型`, `AIGC`, `Agent`, `agent`, `智能体`
+   - source search keywords must be exactly two separate single-keyword searches: `AI` and `Agent`
+   - title or JD must match at least one of: `AI`, `Agent`, `agent`
 6. Write company CSV and Markdown outputs under `data/`.
 7. Rebuild `data/ai_agent_pm_job_change_log.csv/.md`.
 8. Replace only `<script id="jobData" type="application/json">...</script>` inside `ai_agent_pm_jobs.html`.
@@ -72,7 +73,7 @@ Accept: application/json,text/plain,*/*
 - Include both `Responsibility` and `Requirement` in JD.
 - Detail URL: `https://careers.tencent.com/jobdesc.html?postId={PostId}&language=zh-cn`
 - Reliable refresh pattern:
-  1. Search list pages for `AI`, `Agent`, `大模型`, `AIGC`, `智能体`, `人工智能`, and `产品经理`.
+  1. Search list pages with two separate single-keyword searches: `AI`, then `Agent`.
   2. Use list fields first to reduce detail calls; only call `ByPostId` for candidate rows whose title contains `产品经理` and whose title/list responsibility already hits the AI/Agent keyword set.
   3. Set a short detail timeout and fall back to list `Responsibility` if a detail request stalls, but when detail succeeds always merge `Responsibility` and `Requirement`.
 
@@ -111,7 +112,7 @@ These share the Alibaba CPO portal pattern:
 {"channel":"...","language":"zh","pageIndex":1,"pageSize":50,"key":"AI"}
 ```
 
-Repeat for `Agent`, paginate by `totalCount`, and use list fields `name`, `description`, `requirement`, `workLocations`, `publishTime`, `positionUrl`.
+Repeat the same flow for the separate single keyword `Agent`, paginate by `totalCount`, and use list fields `name`, `description`, `requirement`, `workLocations`, `publishTime`, `positionUrl`. Do not use `大模型`, `AIGC`, `智能体`, `人工智能`, combined `AI Agent`, or other keywords as source search terms unless the user explicitly changes the scope.
 
 If search returns unexpectedly empty results or the user provides an official Alibaba detail URL, fetch the detail page directly as a fallback:
 
@@ -174,7 +175,7 @@ The public list endpoint requires the frontend-generated signature headers. Do n
 - Reliable refresh pattern:
   1. Use a real browser session and navigate to hash URLs such as `https://zhaopin.kuaishou.cn/recruit/e/#/official/social/?workLocationCode=domestic&name=AI&pageNum=1`.
   2. Listen for `GET /api/v1/open/positions/simple` responses and parse `result.total` plus `result.list`.
-  3. Repeat pages for `AI` and `Agent`; the browser will sign each page request.
+  3. Repeat pages for the two separate single-keyword searches `AI` and `Agent`; the browser will sign each page request. For routine refreshes, capture up to the first 10 pages per keyword unless the user asks for deeper pagination.
   4. The list response already includes `description`, `positionDemand`, `workLocationsCode`, `updateTime`, and `id`; merge `description` and `positionDemand` into JD.
   5. Detail URL format: `https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/{id}`.
 
@@ -196,8 +197,8 @@ Reliable refresh pattern:
 3. Listen for `GET /api/v1/search/job/posts` JSON responses and collect `data.job_post_list`.
 4. Scroll the main `section.atsx-layout` to the bottom so the pagination is visible.
 5. Click `.atsx-pagination-item` page numbers or `.atsx-pagination-next`; the frontend will generate a valid `_signature` for each offset.
-6. For 字节, repeat the full pagination for `AI`, `Agent`, `大模型`, `AIGC`, `智能体`, and `人工智能`, then merge by `id`.
-7. For 小米, full pagination of `AI` is currently enough to reproduce the known AI/Agent PM set; add other keywords only if the filtered count drops below the existing CSV.
+6. For 字节, capture only the first 10 pages for the single keyword `AI` and the first 10 pages for the single keyword `Agent`, then merge by `id`.
+7. For 小米, capture only the two separate single-keyword searches `AI` and `Agent`, then merge by `id`.
 8. Detail URL formats:
    - 字节: `https://jobs.bytedance.com/experienced/position/{id}/detail`
    - 小米: `https://xiaomi.jobs.f.mioffice.cn/index/position/{id}/detail`
