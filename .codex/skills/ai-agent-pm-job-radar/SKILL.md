@@ -228,7 +228,7 @@ Build payload with:
 - `dashboard.jobChanges`
 - `jobs`
 
-Build `dashboard.jobChanges` from the latest 7 distinct job dates/recorded dates, not 3.
+Build `dashboard.jobChanges` as near-3-day additions only: use change-log rows whose `变动类型` is `新增` and whose `变动日期` falls within the latest 3 calendar days. Do not include delisted rows in this dashboard module.
 
 Preserve existing JS/CSS unless the user explicitly asks for UI changes.
 
