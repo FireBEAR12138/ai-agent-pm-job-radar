@@ -65,6 +65,26 @@ User-Agent: Mozilla/5.0
 Accept: application/json,text/plain,*/*
 ```
 
+## High-Failure Source Recovery Playbook
+
+When a source that has failed before returns `0`, HTML, `illegal-visit`, `405`, a stale first page, or a response shape that does not contain jobs, do not immediately accept the result as empty. Use this recovery order:
+
+1. Retry once with the exact current source technique below.
+2. If direct HTTP is blocked, open the official search page in a real browser session, capture the successful list request from DevTools/network events, then replay that request with the same cookies, headers, token, signature, and pagination payload.
+3. Search `AI` and `Agent` as two separate single keywords. Do not combine them into `AI Agent`.
+4. Compare the recovered result with the existing company CSV. If a historically populated source suddenly returns zero or far fewer rows, inspect the response shape and retry through browser capture before overwriting the CSV.
+5. If a source is intentionally capped or only partially paginated, such as first 10 pages only, never infer delisted jobs from missing rows. Merge captured rows with the existing CSV, record confirmed new jobs, and leave old rows that were outside the observed window in place. Only write delisted changes after a successful full crawl of that source.
+6. If the retry still fails, keep that company's existing CSV/Markdown byte-for-byte and report the failure.
+
+Recent successful recoveries to preserve:
+
+- 百度 succeeds through direct form POST only when `Content-Type` is form encoded, `Referer` is the social-list page, and `pageSize=10`. Larger page sizes or JSON payloads can fail.
+- 蚂蚁集团 succeeds by capturing the browser-gated `hrcareersweb.antgroup.com/api/social/position/search?ctoken=...` request and reusing `front-user-id`, cookies, `ctoken`, and the same payload shape. Direct non-browser requests can return `405`.
+- 阿里云、淘天集团、千问事业部、通义 succeed by extracting each host's `_csrf` token, then retrying `group_official_site` when the page-extracted off-campus channel returns `0`.
+- 快手 succeeds by letting the frontend generate `sign` and `signTimestamp`; capture `GET /api/v1/open/positions/simple` from the browser instead of calling unsigned JSON.
+- 字节跳动和小米 succeed by letting the frontend generate `_signature`; navigate/search in browser and click pagination rather than mutating `offset` manually.
+- 字节跳动、快手、小米等限页或浏览器分页来源只能把已捕获列表作为“仍在线/新增”的证据，不能把未捕获到的旧岗位判定为下架。
+
 ### 腾讯
 
 - List API: `https://careers.tencent.com/tencentcareer/api/post/Query`
@@ -86,6 +106,7 @@ Accept: application/json,text/plain,*/*
 - JD fields: `workContent` and `serviceCondition`.
 - This API may return an empty object or `illegal-visit` without browser-like request context. Use form encoding, not JSON, and include `Referer: https://talent.baidu.com/jobs/social-list?search=AI` plus `Content-Type: application/x-www-form-urlencoded; charset=UTF-8`. `Origin: https://talent.baidu.com` is accepted, but `Referer` and exact form content type are the critical headers.
 - Keep `pageSize=10`. Larger values such as `50` can return `Illegal argument : pageSize`.
+- Successful recovery pattern: for each of `AI` and `Agent`, POST the exact form payload, paginate by `curPage`, stop only after the response list is shorter than `pageSize` or empty, and normalize detail URLs from `postId`. Treat a sudden zero-row result as suspicious unless the browser replay also returns no list.
 - If the enhanced request still returns no `data.list`, retry once through a browser session. If the page no longer emits the list request and direct browser `fetch` returns `illegal-visit`, keep the existing CSV and report the failure rather than overwriting with zero rows.
 
 ### 理想
@@ -106,6 +127,7 @@ These share the Alibaba CPO portal pattern:
 2. Extract `window.__sysconfig.__token__`.
 3. Extract `window.__sysconfig.channelCodeMap.offCampus`; fallback to the known channel.
    - If the extracted off-campus channel returns `totalCount=0` for obvious populated searches, retry with `group_official_site` before treating the source as empty. Some Alibaba portals expose a source-specific channel in the page config while the public search results are returned only for `group_official_site`.
+   - In the successful recovery, `group_official_site` was the useful fallback for sources that looked empty through the page-extracted channel.
 4. POST `{host}/position/search?_csrf={token}` as JSON:
 
 ```json
@@ -113,6 +135,8 @@ These share the Alibaba CPO portal pattern:
 ```
 
 Repeat the same flow for the separate single keyword `Agent`, paginate by `totalCount`, and use list fields `name`, `description`, `requirement`, `workLocations`, `publishTime`, `positionUrl`. Do not use `大模型`, `AIGC`, `智能体`, `人工智能`, combined `AI Agent`, or other keywords as source search terms unless the user explicitly changes the scope.
+
+For each Alibaba-family source, keep the token/cookie scoped to that source host. Do not reuse an Aliyun token or cookie for Taotian, Quark/Qianwen, or Tongyi.
 
 If search returns unexpectedly empty results or the user provides an official Alibaba detail URL, fetch the detail page directly as a fallback:
 
@@ -154,6 +178,7 @@ Empty results are valid for these sources; write a header-only CSV and show coun
 {"key":"ai","regions":"","categories":"97","subCategories":"97,98,99,100,101,102,403,404,405,406","bgCode":"","socialQrCode":"","pageIndex":1,"pageSize":10,"channel":"group_official_site","language":"zh"}
 ```
 
+- Replace `key` with the current single keyword (`AI` or `Agent`) while preserving the rest of the captured payload shape.
 - The search response may return the list directly under `content`, not `data.list`; inspect both. The rows already include `description`, `requirement`, `workLocations`, `publishTime`, and `id`; merge `description` and `requirement` into JD.
 - Detail URL format: `https://talent.antgroup.com/off-campus-position/{id}`.
 - Do not treat a non-browser `405` as empty results; fall back to browser-captured requests first.
