@@ -1,9 +1,14 @@
 # AI / Agent 产品经理岗位变动记录
 
-更新时间：2026/07/03 22:39:07
+更新时间：2026/07/06 23:17:33
 
 | 变动日期 | 变动类型 | 公司 | 岗位 | 岗位发布时间 | URL |
 |---|---|---|---|---|---|
+| 2026-07-06 | 新增 | 理想 | 充电体验产品经理 | 2026/07/06 23:17:33 | [详情](https://www.lixiang.com/employ/detail/19413.html) |
+| 2026-07-06 | 新增 | 淘天集团 | 1688-AI金融产品经理（商户洞察方向）-杭州 | 2026-07-06 13:36:57 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100019260008) |
+| 2026-07-06 | 下架 | 百度 | 产品经理（J91523） | 2026-02-06 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/112b169d-ddce-4b47-8eff-45e767a52ed0) |
+| 2026-07-06 | 下架 | 百度 | 产品经理（J91523） | 2025-08-13 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/4a230565-fc62-4d46-9e8a-ff1de59c62c6) |
+| 2026-07-06 | 下架 | 淘天集团 | M&T事业部-产业带运营-AI工作台产品经理 | 2026-07-02 11:02:41 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100018980001) |
 | 2026-07-03 | 新增 | 阿里云 | ATH事业群-AI 产品经理 （MaaS网站方向）-杭州/北京 | 2026-07-03 14:15:16 | [详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015623017) |
 | 2026-07-03 | 新增 | 字节跳动 | 策略产品经理（AI大模型效果方向）-抖音 | 2025-02-26 16:16:45 | [详情](https://jobs.bytedance.com/experienced/position/7475637557980907784/detail) |
 | 2026-07-03 | 新增 | 字节跳动 | 混合云Agent平台产品经理-火山引擎 | 2026-01-28 15:38:25 | [详情](https://jobs.bytedance.com/experienced/position/7600313445921966389/detail) |
