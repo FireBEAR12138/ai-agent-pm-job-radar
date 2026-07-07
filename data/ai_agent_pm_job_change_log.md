@@ -1,9 +1,23 @@
 # AI / Agent 产品经理岗位变动记录
 
-更新时间：2026/07/06 23:17:33
+更新时间：2026/07/07 22:35:02
 
 | 变动日期 | 变动类型 | 公司 | 岗位 | 岗位发布时间 | URL |
 |---|---|---|---|---|---|
+| 2026-07-07 | 新增 | 蚂蚁集团 | 蚂蚁数字科技-数科技术部-AI产品经理 | 2026-07-07T08:23:52.000+00:00 | [详情](https://talent.antgroup.com/off-campus-position/260707010787644) |
+| 2026-07-07 | 新增 | 蚂蚁集团 | 蚂蚁国际-国际风控AI产品经理-国际风控 | 2026-07-07T02:23:25.000+00:00 | [详情](https://talent.antgroup.com/off-campus-position/26040809480703) |
+| 2026-07-07 | 新增 | 百度 | 百度百舸-机器学习平台高级产品经理（J101425） | 2026-07-06 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/74c2a862-59e0-4ea0-bd98-fa06b34256d1) |
+| 2026-07-07 | 新增 | 理想 | 高级AI产品经理 | 2026/07/07 22:35:02 | [详情](https://www.lixiang.com/employ/detail/19419.html) |
+| 2026-07-07 | 新增 | 淘天集团 | M&T事业部-AI产品经理/产品运营-杭州 | 2026-07-07 13:34:50 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100022680002) |
+| 2026-07-07 | 新增 | 淘天集团 | 1688-AI产品经理-杭州 | 2026-07-07 17:25:34 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100022540004) |
+| 2026-07-07 | 新增 | 小米 | AI Agent产品经理 | 2025-06-03 10:10:48 | [详情](https://xiaomi.jobs.f.mioffice.cn/index/position/7511537112795119725/detail) |
+| 2026-07-07 | 新增 | 字节跳动 | 资深AI大模型产品经理-火山方舟MaaS | 2025-11-06 15:59:45 | [详情](https://jobs.bytedance.com/experienced/position/7569518686495983877/detail) |
+| 2026-07-07 | 下架 | 蚂蚁集团 | 蚂蚁国际-旅行助手AI产品经理-国际产品 | 2026-06-01T09:08:41.000+00:00 | [详情](https://talent.antgroup.com/off-campus-position/25111307598365) |
+| 2026-07-07 | 下架 | 百度 | 车载语音产品经理（J78057） | 2024-08-12 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/b66645b2-1162-4c78-8537-8ea36b966105) |
+| 2026-07-07 | 下架 | 百度 | 产品经理（J96567） | 2026-01-20 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/1ddd8ce6-d8ae-416b-8906-6632ffd251a8) |
+| 2026-07-07 | 下架 | 百度 | 产品经理（J96567） | 2026-02-06 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/fa83df2f-5704-45ee-968b-8a75e850933f) |
+| 2026-07-07 | 下架 | 淘天集团 | 平台及用户产品事业部-商品详情产品经理-AI/垂类方向 | 2026-06-11 10:30:28 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=7000043120) |
+| 2026-07-07 | 下架 | 淘天集团 | 天猫国际-AI产品经理(供给&交易)-杭州 | 2026-06-18 00:00:00 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100012860002) |
 | 2026-07-06 | 新增 | 理想 | 充电体验产品经理 | 2026/07/06 23:17:33 | [详情](https://www.lixiang.com/employ/detail/19413.html) |
 | 2026-07-06 | 新增 | 淘天集团 | 1688-AI金融产品经理（商户洞察方向）-杭州 | 2026-07-06 13:36:57 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100019260008) |
 | 2026-07-06 | 下架 | 百度 | 产品经理（J91523） | 2026-02-06 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/112b169d-ddce-4b47-8eff-45e767a52ed0) |

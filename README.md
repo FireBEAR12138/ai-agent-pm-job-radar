@@ -29,17 +29,17 @@
 
 | 公司名 | 岗位数量 | 本次更新 | 更新时间 |
 |---|---:|---:|---|
-| [快手](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/kuaishou_ai_agent_pm_jobs.csv) | 24 | +0 -0 | 2026/07/06 23:17:33 |
-| [字节跳动](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/bytedance_ai_agent_pm_jobs.csv) | 29 | +0 -0 | 2026/07/06 23:17:33 |
-| [腾讯](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/tencent_ai_agent_pm_jobs.csv) | 58 | +0 -0 | 2026/07/06 23:17:33 |
-| [小米](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/xiaomi_ai_agent_pm_jobs.csv) | 15 | +0 -0 | 2026/07/06 23:17:33 |
-| [百度](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/baidu_ai_agent_pm_jobs.csv) | 135 | +0 -2 | 2026/07/06 23:17:33 |
-| [理想](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/lixiang_ai_agent_pm_jobs.csv) | 14 | +1 -0 | 2026/07/06 23:17:33 |
-| [阿里云](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/aliyun_ai_agent_pm_jobs.csv) | 12 | +0 -0 | 2026/07/06 23:17:33 |
-| [淘天集团](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/taotian_ai_agent_pm_jobs.csv) | 35 | +1 -1 | 2026/07/06 23:17:33 |
-| [蚂蚁集团](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/antgroup_ai_agent_pm_jobs.csv) | 23 | +0 -0 | 2026/07/06 23:17:33 |
-| [千问事业部](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/qianwen_ai_agent_pm_jobs.csv) | 9 | +0 -0 | 2026/07/06 23:17:33 |
-| [通义](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/tongyi_ai_agent_pm_jobs.csv) | 2 | +0 -0 | 2026/07/06 23:17:33 |
+| [快手](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/kuaishou_ai_agent_pm_jobs.csv) | 24 | +0 -0 | 2026/07/07 22:35:02 |
+| [字节跳动](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/bytedance_ai_agent_pm_jobs.csv) | 30 | +1 -0 | 2026/07/07 22:35:02 |
+| [腾讯](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/tencent_ai_agent_pm_jobs.csv) | 58 | +0 -0 | 2026/07/07 22:35:02 |
+| [小米](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/xiaomi_ai_agent_pm_jobs.csv) | 16 | +1 -0 | 2026/07/07 22:35:02 |
+| [百度](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/baidu_ai_agent_pm_jobs.csv) | 133 | +1 -3 | 2026/07/07 22:35:02 |
+| [理想](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/lixiang_ai_agent_pm_jobs.csv) | 15 | +1 -0 | 2026/07/07 22:35:02 |
+| [阿里云](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/aliyun_ai_agent_pm_jobs.csv) | 12 | +0 -0 | 2026/07/07 22:35:02 |
+| [淘天集团](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/taotian_ai_agent_pm_jobs.csv) | 35 | +2 -2 | 2026/07/07 22:35:02 |
+| [蚂蚁集团](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/antgroup_ai_agent_pm_jobs.csv) | 24 | +2 -1 | 2026/07/07 22:35:02 |
+| [千问事业部](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/qianwen_ai_agent_pm_jobs.csv) | 9 | +0 -0 | 2026/07/07 22:35:02 |
+| [通义](https://github.com/FireBEAR12138/ai-agent-pm-job-radar/blob/main/data/tongyi_ai_agent_pm_jobs.csv) | 2 | +0 -0 | 2026/07/07 22:35:02 |
 
 ## 近 3 日新增
 
@@ -47,5 +47,13 @@
 
 | 日期 | 公司 | 岗位名 | URL |
 |---|---|---|---|
+| 2026-07-07 | 蚂蚁集团 | 蚂蚁数字科技-数科技术部-AI产品经理 | https://talent.antgroup.com/off-campus-position/260707010787644 |
+| 2026-07-07 | 蚂蚁集团 | 蚂蚁国际-国际风控AI产品经理-国际风控 | https://talent.antgroup.com/off-campus-position/26040809480703 |
+| 2026-07-07 | 百度 | 百度百舸-机器学习平台高级产品经理（J101425） | https://talent.baidu.com/jobs/detail/SOCIAL/74c2a862-59e0-4ea0-bd98-fa06b34256d1 |
+| 2026-07-07 | 理想 | 高级AI产品经理 | https://www.lixiang.com/employ/detail/19419.html |
+| 2026-07-07 | 淘天集团 | M&T事业部-AI产品经理/产品运营-杭州 | https://talent.taotian.com/off-campus/position-detail?positionId=100022680002 |
+| 2026-07-07 | 淘天集团 | 1688-AI产品经理-杭州 | https://talent.taotian.com/off-campus/position-detail?positionId=100022540004 |
+| 2026-07-07 | 小米 | AI Agent产品经理 | https://xiaomi.jobs.f.mioffice.cn/index/position/7511537112795119725/detail |
+| 2026-07-07 | 字节跳动 | 资深AI大模型产品经理-火山方舟MaaS | https://jobs.bytedance.com/experienced/position/7569518686495983877/detail |
 | 2026-07-06 | 理想 | 充电体验产品经理 | https://www.lixiang.com/employ/detail/19413.html |
 | 2026-07-06 | 淘天集团 | 1688-AI金融产品经理（商户洞察方向）-杭州 | https://talent.taotian.com/off-campus/position-detail?positionId=100019260008 |
