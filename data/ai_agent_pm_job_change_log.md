@@ -1,9 +1,30 @@
 # AI / Agent 产品经理岗位变动记录
 
-更新时间：2026/07/08 23:00:52
+更新时间：2026/07/10 23:59:59
 
 | 变动日期 | 变动类型 | 公司 | 岗位 | 岗位发布时间 | URL |
 |---|---|---|---|---|---|
+| 2026-07-10 | 新增 | 百度 | 百度网盘APP-AI产品经理（工具体验方向）（J97004） | 2026-01-26 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/84cbba90-c72e-4047-ab6f-d8a0e12946c1) |
+| 2026-07-10 | 下架 | 淘天集团 | 淘天营销平台-商业化产品经理（AI）-杭州 | 2026-05-12 12:00:43 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100014380006) |
+| 2026-07-10 | 下架 | 淘天集团 | 淘宝平台事业部-AI产品经理-客服资源方向 | 2026-06-03 21:58:43 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100013180006) |
+| 2026-07-10 | 下架 | 蚂蚁集团 | 蚂蚁集团-AI产品经理-AI付 | 2026-05-29T10:01:50.000+00:00 | [详情](https://talent.antgroup.com/off-campus-position/260529010249205) |
+| 2026-07-09 | 新增 | 蚂蚁集团 | 蚂蚁集团-芝麻信用商业产品经理-芝麻信用 | 2026-07-09T11:52:42.000+00:00 | [详情](https://talent.antgroup.com/off-campus-position/260709010851063) |
+| 2026-07-09 | 新增 | 百度 | 百度文库 PC 端高级产品经理（J81716） | 2025-02-05 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/e83a0eeb-36f2-4b3c-92bd-fbf07d036d25) |
+| 2026-07-09 | 新增 | 百度 | 搜索策略产品经理（医院决策方向）（J100597） | 2026-07-09 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/3aec4215-cdd7-4be0-a860-df969b953c7f) |
+| 2026-07-09 | 新增 | 百度 | 平台供给引入产品经理（生活服务方向）​​（J85108） | 2025-05-13 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/78d10ce7-78f5-48d7-bf14-7781fd933830) |
+| 2026-07-09 | 新增 | 百度 | 健康AI产品经理（J101199） | 2026-07-09 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/40f97291-9468-4c96-9a2e-c8a358328984) |
+| 2026-07-09 | 新增 | 百度 | 产品经理（J100962） | 2026-06-18 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/7cc6a8b2-24af-4f83-8b58-72eca83dcfb9) |
+| 2026-07-09 | 新增 | 百度 | C端用户产品经理（J90816） | 2025-10-16 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/a029e532-a22d-4430-b108-14b08bb64288) |
+| 2026-07-09 | 新增 | 百度 | AI产品经理（企业效能方向）（J101407） | 2026-07-08 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/645aeeb5-f2a7-4df3-b13c-d90a6006aac3) |
+| 2026-07-09 | 新增 | 快手 | 内容风控策略产品经理（版权IP方向）-【可灵AI专项】 | 2026-07-09T15:43:52.000+08:00 | [详情](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/31524) |
+| 2026-07-09 | 下架 | 百度 | 百度网盘APP-AI产品经理（工具体验方向）（J97004） | 2026-01-26 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/84cbba90-c72e-4047-ab6f-d8a0e12946c1) |
+| 2026-07-09 | 下架 | 百度 | 商业化产品经理（J97285） | 2026-02-04 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/29e5433a-f7f1-46e1-b78b-ed4547b4ac15) |
+| 2026-07-09 | 下架 | 百度 | 商业化AI产品经理（J98786） | 2026-03-26 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/563cf3d2-67df-4874-ac58-3896bf1fb5f8) |
+| 2026-07-09 | 下架 | 理想 | 购车交易产品经理 | 2026-06-29 23:18:55 | [详情](https://www.lixiang.com/employ/detail/19250.html) |
+| 2026-07-09 | 下架 | 理想 | 理想汽车App车控产品经理 | 2026-06-28 11:14:22 | [详情](https://www.lixiang.com/employ/detail/18817.html) |
+| 2026-07-09 | 下架 | 理想 | 智能驾驶AI高级产品经理 | 2026-06-28 11:14:22 | [详情](https://www.lixiang.com/employ/detail/15783.html) |
+| 2026-07-09 | 下架 | 理想 | 具身Agent安全产品经理 (Safety PM) | 2026-06-28 11:14:22 | [详情](https://www.lixiang.com/employ/detail/18788.html) |
+| 2026-07-09 | 下架 | 理想 | 充电体验产品经理 | 2026-06-28 11:14:22 | [详情](https://www.lixiang.com/employ/detail/19251.html) |
 | 2026-07-08 | 新增 | 腾讯 | 智能体套件-高级产品经理-CodeBuddy/WorkBuddy | 2026年07月08日 | [详情](https://careers.tencent.com/jobdesc.html?postId=2074756585305059328&language=zh-cn) |
 | 2026-07-08 | 新增 | 百度 | 车载语音产品经理（J78057） | 2024-08-12 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/b66645b2-1162-4c78-8537-8ea36b966105) |
 | 2026-07-08 | 新增 | 淘天集团 | 平台及用户产品事业部-商品详情产品经理-AI/垂类方向 | 2026-07-08 19:05:09 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=7000043120) |
