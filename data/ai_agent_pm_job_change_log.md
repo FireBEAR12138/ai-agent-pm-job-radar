@@ -1,9 +1,23 @@
 # AI / Agent 产品经理岗位变动记录
 
-更新时间：2026/07/10 23:59:59
+更新时间：2026/07/13 23:59:59
 
 | 变动日期 | 变动类型 | 公司 | 岗位 | 岗位发布时间 | URL |
 |---|---|---|---|---|---|
+| 2026-07-13 | 新增 | 字节跳动 | AI增长策略产品经理-抖音搜索 | 2025-04-23 16:51:40 | [详情](https://jobs.bytedance.com/experienced/position/7496428602649856264/detail) |
+| 2026-07-13 | 新增 | 字节跳动 | Coding Agent产品经理-扣子 | 2026-06-11 15:42:16 | [详情](https://jobs.bytedance.com/experienced/position/7650039970105035013/detail) |
+| 2026-07-13 | 新增 | 字节跳动 | 增长产品经理（AI方向）-飞书（北京/杭州/上海） | 2026-01-15 14:52:23 | [详情](https://jobs.bytedance.com/experienced/position/7595477153920141573/detail) |
+| 2026-07-13 | 新增 | 小米 | AI创新硬件产品经理 | 2026-04-16 16:34:03 | [详情](https://xiaomi.jobs.f.mioffice.cn/index/position/7629270952027998507/detail) |
+| 2026-07-13 | 新增 | 小米 | 小爱车载语音高级产品经理 | 2026-07-10 19:28:52 | [详情](https://xiaomi.jobs.f.mioffice.cn/index/position/7660857193759721782/detail) |
+| 2026-07-13 | 新增 | 阿里云 | ATH事业群-Agent策略产品经理-AI手机 | 2026-07-13 16:03:32 | [详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015643022) |
+| 2026-07-13 | 新增 | 阿里云 | ATH事业群-Agent评测产品经理（AI手机）-杭州 | 2026-07-13 16:51:53 | [详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015563024) |
+| 2026-07-13 | 新增 | 阿里云 | ATH事业群-KA产品经理（AI手机方向）-杭州/深圳 | 2026-07-13 16:30:53 | [详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015503015) |
+| 2026-07-13 | 新增 | 阿里云 | ATH事业群-平台产品经理（AI手机）-杭州 | 2026-07-13 16:55:40 | [详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100015503016) |
+| 2026-07-13 | 下架 | 百度 | C端产品经理（AIGC）（J96681） | 2026-01-15 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/ae7105e9-3b57-493d-b749-3e899e05904c) |
+| 2026-07-13 | 下架 | 百度 | 文库出海产品经理（J85589） | 2025-07-14 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/ed7acbbb-2f40-4e32-a2f5-6ba9eb8dc6df) |
+| 2026-07-13 | 下架 | 百度 | 生态产品经理（Skill 方向）（J101048） | 2026-06-24 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/72b0e209-eb41-4408-85e4-f0c78104ed27) |
+| 2026-07-13 | 下架 | 百度 | 百度学术AI产品经理（J85590） | 2025-06-19 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/b1b93bab-9114-4e7b-ab6b-0a9199ae77f3) |
+| 2026-07-13 | 下架 | 千问事业部 | 千问事业部-AI 商业化产品经理（全域营销业务）-北京 | 2026-06-03 14:05:28 | [详情](https://talent.quark.cn/off-campus/position-detail?positionId=100015480001) |
 | 2026-07-10 | 新增 | 百度 | 百度网盘APP-AI产品经理（工具体验方向）（J97004） | 2026-01-26 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/84cbba90-c72e-4047-ab6f-d8a0e12946c1) |
 | 2026-07-10 | 下架 | 淘天集团 | 淘天营销平台-商业化产品经理（AI）-杭州 | 2026-05-12 12:00:43 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100014380006) |
 | 2026-07-10 | 下架 | 淘天集团 | 淘宝平台事业部-AI产品经理-客服资源方向 | 2026-06-03 21:58:43 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100013180006) |
