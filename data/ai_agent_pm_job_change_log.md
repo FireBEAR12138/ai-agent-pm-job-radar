@@ -1,9 +1,24 @@
 # AI / Agent 产品经理岗位变动记录
 
-更新时间：2026/07/13 23:59:59
+更新时间：2026/07/15 00:39:21
 
 | 变动日期 | 变动类型 | 公司 | 岗位 | 岗位发布时间 | URL |
 |---|---|---|---|---|---|
+| 2026-07-15 | 新增 | 字节跳动 | Coding Agent产品经理-扣子 | 2026-06-11 15:48:14 | [详情](https://jobs.bytedance.com/experienced/position/7650041514577316101/detail) |
+| 2026-07-15 | 新增 | 字节跳动 | 企业级Agent应用产品经理-数据平台 | 2025-11-03 15:26:49 | [详情](https://jobs.bytedance.com/experienced/position/7568396650255911173/detail) |
+| 2026-07-15 | 新增 | 腾讯 | 腾讯游戏-多模态数据策略产品经理-视频生成方向 | 2026年07月14日 | [详情](https://careers.tencent.com/jobdesc.html?postId=2073970041505890304&language=zh-cn) |
+| 2026-07-15 | 新增 | 腾讯 | 腾讯游戏-多模态数据策略产品经理-视频生成方向 | 2026年07月14日 | [详情](https://careers.tencent.com/jobdesc.html?postId=2073970038867668992&language=zh-cn) |
+| 2026-07-15 | 新增 | 腾讯 | 腾讯游戏-多模态数据策略产品经理-视频生成方向 | 2026年07月14日 | [详情](https://careers.tencent.com/jobdesc.html?postId=2073970036510470144&language=zh-cn) |
+| 2026-07-15 | 新增 | 淘天集团 | 天猫事业部-商家AI数据产品经理-杭州 | 2026-07-14 14:38:36 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100023960006) |
+| 2026-07-15 | 新增 | 淘天集团 | 营销平台及市场部-AI产品经理（中台）-杭州 | 2026-07-14 17:34:19 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100024300001) |
+| 2026-07-15 | 下架 | 腾讯 | 腾讯营销-AI投放策略产品经理 | 2026年07月10日 | [详情](https://careers.tencent.com/jobdesc.html?postId=2041516078106050560&language=zh-cn) |
+| 2026-07-15 | 下架 | 腾讯 | 腾讯营销-数据Agent产品经理(深圳/上海) | 2026年05月21日 | [详情](https://careers.tencent.com/jobdesc.html?postId=2052676740161122304&language=zh-cn) |
+| 2026-07-15 | 下架 | 百度 | C端用户产品经理（J90816） | 2025-10-16 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/a029e532-a22d-4430-b108-14b08bb64288) |
+| 2026-07-15 | 下架 | 百度 | DuMate效果评测产品经理（J100354） | 2026-06-03 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/ed67a452-d65b-4be1-9b5c-3bb1ab3cb5a2) |
+| 2026-07-15 | 下架 | 阿里云 | ATH事业群-AI原生应用产品经理-杭州 | 2026-05-18 10:55:03 | [详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100011383005) |
+| 2026-07-15 | 下架 | 阿里云 | ATH事业群-金融AI产品经理-杭州 | 2026-05-26 14:38:43 | [详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100013763007) |
+| 2026-07-15 | 下架 | 淘天集团 | 1688-AI商家经营产品经理-杭州 | 2026-06-17 20:02:46 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100019560002) |
+| 2026-07-15 | 下架 | 淘天集团 | 营销平台及市场部-AI产品经理-杭州 | 2026-05-08 18:51:06 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100014060010) |
 | 2026-07-13 | 新增 | 字节跳动 | AI增长策略产品经理-抖音搜索 | 2025-04-23 16:51:40 | [详情](https://jobs.bytedance.com/experienced/position/7496428602649856264/detail) |
 | 2026-07-13 | 新增 | 字节跳动 | Coding Agent产品经理-扣子 | 2026-06-11 15:42:16 | [详情](https://jobs.bytedance.com/experienced/position/7650039970105035013/detail) |
 | 2026-07-13 | 新增 | 字节跳动 | 增长产品经理（AI方向）-飞书（北京/杭州/上海） | 2026-01-15 14:52:23 | [详情](https://jobs.bytedance.com/experienced/position/7595477153920141573/detail) |
