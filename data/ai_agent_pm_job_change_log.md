@@ -1,9 +1,19 @@
 # AI / Agent 产品经理岗位变动记录
 
-更新时间：2026/07/15 00:39:21
+更新时间：2026/07/16 00:06:21
 
 | 变动日期 | 变动类型 | 公司 | 岗位 | 岗位发布时间 | URL |
 |---|---|---|---|---|---|
+| 2026-07-16 | 新增 | 快手 | AIGC产品经理（电商广告）-【电商】 | 2026-07-15T20:39:26.000+08:00 | [详情](https://zhaopin.kuaishou.cn/recruit/e/#/official/social/job-info/31559) |
+| 2026-07-16 | 新增 | 小米 | 财务数据产品经理 | 2026-07-13 17:50:40 | [详情](https://xiaomi.jobs.f.mioffice.cn/index/position/7661947261148301618/detail) |
+| 2026-07-16 | 新增 | 小米 | 高级产品经理（AI 漫剧创作平台） | 2026-07-15 15:38:11 | [详情](https://xiaomi.jobs.f.mioffice.cn/index/position/7662654539741055268/detail) |
+| 2026-07-16 | 新增 | 阿里云 | ATH事业群-AI原生应用产品经理-杭州 | 2026-07-15 10:16:42 | [详情](https://careers.aliyun.com/off-campus/position-detail?positionId=100011383005) |
+| 2026-07-16 | 新增 | 淘天集团 | M&T事业部-玩美生活 & 企业服务-AI产品经理 | 2026-07-15 15:01:04 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100024520005) |
+| 2026-07-16 | 新增 | 蚂蚁集团 | 蚂蚁集团-企业助手B端产品经理-芝麻企业信用 | 2026-07-15T02:05:34.000+00:00 | [详情](https://talent.antgroup.com/off-campus-position/26010908319892) |
+| 2026-07-16 | 下架 | 腾讯 | QQ-Agent产品经理 | 2026年06月08日 | [详情](https://careers.tencent.com/jobdesc.html?postId=2029837577405759488&language=zh-cn) |
+| 2026-07-16 | 下架 | 百度 | 产品经理（数据及商业化）-百度网盘（J81006） | 2026-06-03 | [详情](https://talent.baidu.com/jobs/detail/SOCIAL/61a02cfd-e027-47a9-b33d-8d227eb3c722) |
+| 2026-07-16 | 下架 | 淘天集团 | 业务技术-产品经理-交易平台产品（AI） | 2026-07-07 10:19:35 | [详情](https://talent.taotian.com/off-campus/position-detail?positionId=100009920051) |
+| 2026-07-16 | 下架 | 蚂蚁集团 | 蚂蚁集团-智能运营平台产品经理-杭州 | 2026-05-11T08:14:23.000+00:00 | [详情](https://talent.antgroup.com/off-campus-position/26051109931874) |
 | 2026-07-15 | 新增 | 字节跳动 | Coding Agent产品经理-扣子 | 2026-06-11 15:48:14 | [详情](https://jobs.bytedance.com/experienced/position/7650041514577316101/detail) |
 | 2026-07-15 | 新增 | 字节跳动 | 企业级Agent应用产品经理-数据平台 | 2025-11-03 15:26:49 | [详情](https://jobs.bytedance.com/experienced/position/7568396650255911173/detail) |
 | 2026-07-15 | 新增 | 腾讯 | 腾讯游戏-多模态数据策略产品经理-视频生成方向 | 2026年07月14日 | [详情](https://careers.tencent.com/jobdesc.html?postId=2073970041505890304&language=zh-cn) |
